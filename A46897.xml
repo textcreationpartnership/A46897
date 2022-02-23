@@ -1,0 +1,3005 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The traitor to himself, or, Mans heart his greatest enemy a moral interlude in heroic verse, representing the careless, hardned [sic], returning, despairing, renewed heart : with intermaskes of intepretation [sic] at the close of each several act : as it was acted by the boys of a publick school at a breaking up, and published as it may be useful on like occasion.</title>
+            <author>Johns, William, b. 1644?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 101 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46897</idno>
+            <idno type="STC">Wing J766</idno>
+            <idno type="STC">ESTC R1381</idno>
+            <idno type="EEBO-CITATION">12886889</idno>
+            <idno type="OCLC">ocm 12886889</idno>
+            <idno type="VID">95033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 386:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The traitor to himself, or, Mans heart his greatest enemy a moral interlude in heroic verse, representing the careless, hardned [sic], returning, despairing, renewed heart : with intermaskes of intepretation [sic] at the close of each several act : as it was acted by the boys of a publick school at a breaking up, and published as it may be useful on like occasion.</title>
+                  <author>Johns, William, b. 1644?</author>
+               </titleStmt>
+               <extent>[8], 43 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L.L., and are to be sold by Edward Forrest ... and Hugh Keat ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Johns. Cf. Nicoll, A. Hist. of Eng. drama, 1660-1900, 1961, v. 1, p. 415.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95033:1" rendition="simple:additions"/>
+            <pb facs="tcp:95033:1" rendition="simple:additions"/>
+            <p>THE TRAITOR TO HIMSELF, OR Mans Heart his greateſt Enemy.</p>
+            <p>A Moral Interlude IN HEROIC VERSE.</p>
+            <p>Repreſenting, The Careleſs Hardned Returning Deſpairing Renewed Heart.</p>
+            <p>With Intermaskes of Intepretation at the cloſe of each ſeveral Act.</p>
+            <p>As it was Acted by the Boys of a Publick School at a Breaking up, And Publiſhed as it may be uſeful, on like occaſion.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>L. L.</hi> and are to be ſold by <hi>Edward Forreſt,</hi> Bookſellour in <hi>Oxford,</hi> and <hi>Hugh Keat</hi> Bookſellour in <hi>Eveſham, Anno Dom.</hi> 1678.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:95033:2"/>
+            <pb facs="tcp:95033:2"/>
+            <head>TO THE READER.</head>
+            <p>TIs not my deſign by this addreſs to court my Reader to a good humour, ſince I know how uſual it is for Epiſtles in that kind to fail of their intent, and will as certainly fall under cenſure, as any thing elſe ſo expoſed to publick view, the general fate will be <hi>pro captu Lectoris.</hi>
+            </p>
+            <p>I only intend an account of the following Trifle, its Birth, and reaſon of appearing in Print.</p>
+            <p>My employment for ſome years paſt having been to educate Boys in a publick School, ſuch Exerciſes as the enſuing Poem was part of what was provided at the breaking up, and chiefly for the entertainment of the Governours of the School, who with a fatherly care yearly honoured us with their preſence, therefore the Prologue and Epilogue are cheifly directed to congra<g ref="char:EOLhyphen"/>tulate them.</p>
+            <p>It ſeem'd unreaſonable to me to treat them altoge<g ref="char:EOLhyphen"/>ther in a language of which the greater part under<g ref="char:EOLhyphen"/>ſtood
+<pb facs="tcp:95033:3"/>little or nothing, and ſo could neither receive any ſatisfaction to themſelves, nor be competent Judges of what they heard. And as unreaſonable is it that Boys ſhould pretend to be ſo far proficients as to per<g ref="char:EOLhyphen"/>from exerciſe in another language; and yet never be taught to be ſo far acquainted with their own, as to ſpeak or read it as though they underſtood it, and per<g ref="char:EOLhyphen"/>chance thought to do bravely in <hi>Latin,</hi> when not able to write two lines of tolerable ſence in <hi>Engliſh,</hi> nor pro<g ref="char:EOLhyphen"/>nounce them as they ought.</p>
+            <p>I pretend neither to be the firſt, that hath ſeen the want of <hi>Engliſh</hi> Exerciſes in Schools, nor the firſt that has attempted to repair that defect, but I ſpeak this to vindicate ſuch a practice in general, and my own in particular which is by ſeveral <hi>Engliſh</hi> Exerciſes both Proſe and Verſe to inure them both to write and ſpeak underſtandingly, and in a tolerable ſtile, which alſo initiates them to this more ſolemn Exerciſe: not to exclude Exerciſe in other Languages, both commend<g ref="char:EOLhyphen"/>able, ſuitable, uſeful and uſual in all Schools, but to mix with them, which I have found to be helps to each other; ſince in <hi>Latin</hi> Exerciſes, Boys for the moſt part, mind words more than things, and in ſpeaking obſerve the ſound more than ſence. But <hi>Engliſh,</hi> with which they are ſooner acquainted, quickens their Fancy and enriches the conception and Judgment, and they are ſooner able to ſpeak it underſtandingly, and by tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brought to look after Sence and Reaſon in what they compoſe or ſpeak in other Languages, ſo that they may underſtand it.</p>
+            <p>For the manner of writing by way of Parable on ſuch a Subject, I think I have the beſt of Men for exam<g ref="char:EOLhyphen"/>ple, and know no reaſon why Delight and Profit may
+<pb facs="tcp:95033:3"/>not thus be mixed, and the Principles of ſeriouſneſs thus inſtilled into Youth by Parable and Poeſie.</p>
+            <p>As to the Mode of Interlude, I thought it a good way, fit for Boys, to bring them not only to a good habit of ſpeaking, but carriage of Body, becauſe the va<g ref="char:EOLhyphen"/>riety that is in this way cannot be in ſet Speeches; and I find that this kind of action does inſpirit ſuch as be<g ref="char:EOLhyphen"/>fore appeared but dull; and temper them with a fitting boldneſs, and convenient confidence in other things.</p>
+            <p>I had not publiſhed this but on thoughts that it might be of uſe to others, in the like purpoſe of break<g ref="char:EOLhyphen"/>ings up. I am not ignorant of the multitude of Plays that are already extant, but I could never find any that in my apprehenſion was ſuitable to ſuch an occaſion, being either full of Vanity: and ſo apt to corrupt young Minds, or with Womens Parts, which I never thought fit to put on Boys, or number of Actors ſo many as were not eaſily contracted or altered without manifeſt maiming the deſign and looſing the Plot.</p>
+            <p>As for the Stile and Language I have nothing to ſay in its defence, but that the obſcurity of my converſe gives me no better. I had not time, or if I had, not mind to polliſh it for a critical Reader. I hope you will find Sence and Reaſon, and pertinent to what is deſigned, which I always thought Language good e<g ref="char:EOLhyphen"/>nough, a natural ſtrain which runs without forceing, which ſome, as I obſerve, attempting, under pretence of polliſhing have ſo clouded, that a ſharp Eye could ſcarce diſcern what was intended.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prologue">
+            <pb facs="tcp:95033:4"/>
+            <head>THE PROLOGUE</head>
+            <stage>Spoken by four Boys in Parts.</stage>
+            <sp>
+               <speaker>Firſt Boy.</speaker>
+               <l>WElcome grave Senate, as the early light,</l>
+               <l>And ſtill and quiet Morn;</l>
+               <l>To Seamen after Storm;</l>
+               <l>And tedious minutes of tempeſtuous night.</l>
+            </sp>
+            <sp>
+               <speaker>Second.</speaker>
+               <l>Welcome as peace to thoſe who long have found,</l>
+               <l>The Conquering Sword of War,</l>
+               <l>All quietneſs debar;</l>
+               <l>Making their Country one bleeding Wound.</l>
+            </sp>
+            <sp>
+               <speaker>Third.</speaker>
+               <l>Welcome as freedom to the ſhackled Slave,</l>
+               <l>Who wasts with toil and pain,</l>
+               <l>And counts even Death a Gain</l>
+               <l>Hopeing for no releaſe, but in his Grave.</l>
+            </sp>
+            <sp>
+               <speaker>Firſt.</speaker>
+               <l>Welcome, <hi>thrice Welcome</hi> you our Port, our peace,</l>
+               <l>Our Storms are overblown, <stage>All three repeat thrice Welcome together.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Second.</speaker>
+               <p>Wee 've peace and Conqueſt won,</p>
+            </sp>
+            <sp>
+               <speaker>Third.</speaker>
+               <p>Our Shackles you knock off and give releaſe</p>
+            </sp>
+            <sp>
+               <speaker>Firſt</speaker>
+               <l>Never did Councel on a Tryal Day</l>
+               <l>More wiſh to gain applauſe,</l>
+               <l>Gain, and the Cauſe,</l>
+               <l>Then we have wiſht to ſee You Grace our Play.</l>
+            </sp>
+            <pb facs="tcp:95033:4"/>
+            <sp>
+               <speaker>Second</speaker>
+               <l>Ne're was young Heir more pleas'd to be at Age;</l>
+               <l>When Debts and Iutors hands,</l>
+               <l>Preſs with unkind Commands;</l>
+               <l>Then we are pleas'd to ſee You fence our Stage.</l>
+            </sp>
+            <sp>
+               <speaker>Third.</speaker>
+               <l>No wanting Landlord wiſht the day of Rent,</l>
+               <l>With half ſuch strong deſire,</l>
+               <l>As we do now aſpire;</l>
+               <l>This Tribute to our Patrons to praeſent.</l>
+            </sp>
+            <sp>
+               <speaker>Firſt.</speaker>
+               <l>Welcome, <hi>Thrice Welcome,</hi> this our Tryal Day</l>
+               <l>We hope for your applauſe, <stage>Thrice Welcome ſpoken by all three together.</stage>
+               </l>
+               <l>Heirs to the Cauſe;</l>
+               <l>That's our acquittance, though the Rent You pay.</l>
+            </sp>
+            <sp>
+               <speaker>Fourth boy.</speaker>
+               <lg>
+                  <l>See what a fond delight leaps in your Breaſt,</l>
+                  <l>As if you're ſure to pleaſe <stage>To the three Boys.</stage>
+                  </l>
+                  <l>And gain your eaſe,</l>
+                  <l>By what ſhall be by us this Night expreſt.</l>
+               </lg>
+               <lg>
+                  <l>Grave Patrons! no, <stage>Turning to the Preſence.</stage> we dare not be ſo bold</l>
+                  <l>To hope to ſatisfy</l>
+                  <l>If we enjoy;</l>
+                  <l>Tour Patient Pardon 'tis our Mine of Gold.</l>
+               </lg>
+               <lg>
+                  <l>That we are bold to hope you us'd to give,</l>
+                  <l>And from our Labours beg a ſhort repreive,</l>
+                  <l>Your goodneſs often doth us ſo relieve,</l>
+                  <l>We in our Studies by Your favour live.</l>
+               </lg>
+            </sp>
+         </div>
+         <div type="characters">
+            <pb facs="tcp:95033:5"/>
+            <head>ACTORS</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Names.</cell>
+                     <cell role="label">Qualities.</cell>
+                     <cell role="label">oral Signification.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cardian,</hi>
+                     </cell>
+                     <cell>Governour of the City.</cell>
+                     <cell>
+                        <hi>The Heart of Man.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Idos,</hi>
+                     </cell>
+                     <cell>Two Faithful Councellers but ſlighted.</cell>
+                     <cell>
+                        <hi>Knowledg.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sunidos,</hi>
+                     </cell>
+                     <cell>Two Faithful Councellers but ſlighted.</cell>
+                     <cell>
+                        <hi>Conſcience.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pathus,</hi>
+                     </cell>
+                     <cell>Two mean Ser<g ref="char:EOLhyphen"/>vants who by flat<g ref="char:EOLhyphen"/>tering grow great favorites but prove Traitors.</cell>
+                     <cell>
+                        <hi>Paſſion.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anoetus,</hi>
+                     </cell>
+                     <cell>Two mean Ser<g ref="char:EOLhyphen"/>vants who by flat<g ref="char:EOLhyphen"/>tering grow great favorites but prove Traitors.</cell>
+                     <cell>
+                        <hi>Folly.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Kerux,</hi>
+                     </cell>
+                     <cell>A Leiger Embaſ<g ref="char:EOLhyphen"/>ſador.</cell>
+                     <cell>
+                        <hi>The Word of God.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lupa,</hi>
+                     </cell>
+                     <cell>An Herald or Meſ<g ref="char:EOLhyphen"/>ſenger.</cell>
+                     <cell>
+                        <hi>Affliction.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Scrutator,</hi>
+                     </cell>
+                     <cell>One doubting the frame of his Heart.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Interpres,</hi>
+                     </cell>
+                     <cell>Interpreter of the meaning of the ſeve<g ref="char:EOLhyphen"/>ral paſſages.</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="play">
+            <div type="interlude">
+               <pb n="1" facs="tcp:95033:5"/>
+               <head>ANTIMASKE</head>
+               <stage>
+                  <hi>Scrutator,</hi> After a Pauſe ſpeaks.</stage>
+               <lg>
+                  <l>LOst in the Shades of Night, and loſt at Home,</l>
+                  <l>A Stranger there, while Mans wild thoughts de Roam,</l>
+                  <l>Searching abroad he thinks he ſomething knows,</l>
+                  <l>But then the knowledg of himſelf doth looſe.</l>
+                  <l>How vainly do Men boaſt of what they find?</l>
+                  <l>While the great Myſtery of Man's own Mind,</l>
+                  <l>Remains a ſecret, an unridled doubt,</l>
+                  <l>From which the World can never help me out,</l>
+                  <l>But yet in vain I muſe. <stage>Foulding his Arms ſtands ſilently as ſtudying.</stage>
+                  </l>
+               </lg>
+               <stage>
+                  <hi>Enter</hi> Interpres <hi>and ſpeaks.</hi>
+               </stage>
+               <lg>
+                  <l>Who's that in melancholly Dumps, I ſee?</l>
+                  <l>My Friend <hi>Scrutator?</hi> He has need of me. <stage>Goes to him.</stage>
+                  </l>
+                  <l>Still in this muſing Vein, what means my Friend?</l>
+                  <l>Will thy unſettled doubts nere have an end?</l>
+                  <l>How now Man? Planet ſtrook? cannot thy Tongue?</l>
+                  <l>Propoſe its uſual queſtions, right or wrong?</l>
+                  <l>Come, come, I can no longer this endure,</l>
+                  <l>He to thy Melancholly give a Cure.</l>
+               </lg>
+               <sp>
+                  <speaker>Scrut.</speaker>
+                  <l>Pray Sir forbear, I fear 'twill be in vain,</l>
+                  <l>My wound's inviſible, an inward pain</l>
+                  <pb n="2" facs="tcp:95033:6"/>
+                  <l>Afflict that part, which I ſhall never ſee,</l>
+                  <l>Nor ever underſtand my Miſery.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Yet dear <hi>Serutator,</hi> let <hi>Interptes</hi> know,</l>
+                  <l>Under what doubts thy labouring Mind do's bow,</l>
+                  <l>Friendly relief from me you've often found,</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>That's a confeſſed Truth, and gives me ground</l>
+                  <l>To hope for ſatisfaction, after you</l>
+                  <l>Have clear'd my cloudy mind, and ſet in view</l>
+                  <l>What I with reſtleſs thoughts in vain have ſought,</l>
+                  <l>But now my doubt's be yond the reach of thought.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>But yet conceal it not, no doubt I fear</l>
+                  <l>But by the light of Knowledg I can clear.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>Oft hath your kind aſſiſtance made me know,</l>
+                  <l>How all things in the greater World do go.</l>
+                  <l>Which when my thoughts had ſwiftly travell'd ore,</l>
+                  <l>Juſt as the Sun when there remains no more,</l>
+                  <l>I found my ſelf where I ſet out before,</l>
+                  <l>No more advanc'd then when I firſt began.</l>
+                  <l>For there's the little World, a ſlender Span,</l>
+                  <l>The unſeen Heart, the peeviſh part of Man.</l>
+                  <l>I never travell'd, that's the Miſtery</l>
+                  <l>That to my ſelf I ſhould a ſtranger be.</l>
+                  <l>Now ſetting forth to travel o're my ſelf,</l>
+                  <l>I find I am thus ſtruck upon the Shelf.</l>
+                  <l>My Bark's unmoveable, the Stormy Waves</l>
+                  <l>Of reſtleſas thoughts, my craſy Veſſel braves.</l>
+                  <l>Threatning a Wrack, or ſinking in the Flood,</l>
+                  <l>Nor can I ſee how one can be withſtood.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>This Rocky Myſtery, wherewith you're toil'd,</l>
+                  <l>Is that, where all Philoſophy is foil'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>My Heart I fain would know, but cannot ſee</l>
+                  <l>The various Intrigues of Policy</l>
+                  <l>That there tranſacted are, though I do act,</l>
+                  <l>I find my ſelf a Stranger to the Fact,</l>
+                  <l>What ſubtile Power Rules there, that makes me do</l>
+                  <l>Thoſe very things I can't conſent unto.</l>
+                  <l>When for my ſelf I ſhould do all things well,</l>
+                  <l>My Heart betrays me to the works of Hell.</l>
+               </sp>
+               <pb n="3" facs="tcp:95033:6"/>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>'Tis true <hi>Scrutator,</hi> you a doubt have nam'd,</l>
+                  <l>Which to find out all Humane help is maim'd.</l>
+                  <l>But help Divine lends our weak Eyes a Light,</l>
+                  <l>Whereby we're guided how to judg aright,</l>
+                  <l>And from that Light I'le borrow one ſmall Spark,</l>
+                  <l>To bring your clouded Mind out of the Dark.</l>
+                  <l>And in an Interlude this Evening ſhow</l>
+                  <l>That hidden World, which you deſire to know.</l>
+                  <l>In a ſhort Parable, which I'le unfold,</l>
+                  <l>The ſecret you deſire here ſhall be told.</l>
+                  <l>The great Impoſter <hi>Heart</hi> I will diſcry,</l>
+                  <l>With all its fatal Cheats, and Treachery</l>
+                  <l>Againſt its ſelf: its own moſt deadly Foe,</l>
+                  <l>Which the experienced Souls with Sorrow know.</l>
+                  <l>And will diſcover, how this Traitor may</l>
+                  <l>Be taught the Paths of Truths moſt Holy way.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>The ways of Truth may dwell in Poeſy,</l>
+                  <l>I'le pay my Thanks, and lend my Mind an Eye, <stage>They Retire to the Curtain and ſtand as Spectators.</stage>
+                  </l>
+               </sp>
+            </div>
+            <div n="1" type="act">
+               <head>ACT I. SCENE I.</head>
+               <stage>
+                  <hi>Enter</hi> Cardian, Sunidos, Idos: <hi>who walk on, while</hi> Pathus <hi>and</hi> Anoetos <hi>ſtand bare at the Curtain as Servants.</hi>
+               </stage>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <l>BRight as the Noon Days Sun my Glory ſtands,</l>
+                  <l>This City proſpers, rul'd by my Commands.</l>
+                  <l>Ali'd by Birth to our moſt potent King,</l>
+                  <l>The Blood that fills my Vein's deriv'd from him.</l>
+                  <l>On me depends the welfare of you all,</l>
+                  <l>With me you ſtand, If I but ſhake, you fall.</l>
+                  <l>Peace, Plenty, and Proſperity do fill</l>
+                  <l>My happy City, and the Fields we Till.</l>
+                  <pb n="4" facs="tcp:95033:7"/>
+                  <l>What then remains but that our fond cares ceaſe?</l>
+                  <l>And we untroubled taſt the Fruits of Peace.</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>And of thoſe Fruits who doth deſerve to have,</l>
+                  <l>The largeſt ſhare, but you, who quiet gave?</l>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>Inferiours may a taſt of thoſe enjoy,</l>
+                  <l>But Governours may all their time employ,</l>
+                  <l>To bath themſelves in the ſmooth ſtreams of pleaſure,</l>
+                  <l>The richeſt, ſafeſt, moſt aſſured treaſure.</l>
+               </sp>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <p>Well, well, <hi>Anoetiu</hi> you flatter me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>Not I my Lord, 'tis but what does agree</l>
+                  <l>With our great Governours moſt high renown,</l>
+                  <l>The greateſt happineſs below the Crown.</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>Your Princes favour is ſo good a Guard,</l>
+                  <l>That you'l abuſe it with a Cowards fear,</l>
+                  <l>To think that any Enemies ſo hard,</l>
+                  <l>To dare aſſault you while his favours near,</l>
+                  <l>'Tis folly then to give your ſelf to care,</l>
+                  <l>Since he cares for us, do you that labour ſpare.</l>
+               </sp>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <l>Though Millions of my Foes my Walls aſſail,</l>
+                  <l>I ſhall not fear that any ſhall prevail.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>Sir In this Cities welfare we have ſhare,</l>
+                  <l>And in the Government you uſe our care,</l>
+                  <l>Nor can its peace, without our care endure,</l>
+                  <l>Though you are pleaſ'd to think your ſelf ſecure.</l>
+               </sp>
+               <sp>
+                  <speaker>Sunid.</speaker>
+                  <l>'Tis from our potent Princes higher Throne</l>
+                  <l>Our ſafety comes, he owns us as his own.</l>
+                  <l>'Tis his high Power has fortified us ſo,</l>
+                  <l>We need not dread what forreign Foes can do,</l>
+                  <l>Strongeſt aſſaults we from abroad may ſcorne,</l>
+                  <l>Yet may rebellion within our Walls be born,</l>
+                  <l>The boldeſt forreign Enemy we brave,</l>
+                  <l>Fear only danger from the home-born Slave.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Still thy ill boding Mind <hi>(Sunidos)</hi> fears,</l>
+                  <l>In midſt of greateſt pleaſures Sighs and Tears.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>'Tis not (great Sir) our cowardiſe but Love,</l>
+                  <l>That thoſe expreſſions on our Tongues do move.</l>
+                  <l>Nor in true ſafety would we dangers make,</l>
+                  <l>But Reap thoſe Joys our Prince gives leave to take.</l>
+                  <pb n="5" facs="tcp:95033:7"/>
+                  <l>But ſo to take, that he may have renown,</l>
+                  <l>Our Loyalty gives glory to his Crown.</l>
+                  <l>Nor can we better Loyalty expreſs,</l>
+                  <l>Then when his ſtrength, our weakneſs, we confeſs,</l>
+                  <l>Nor do we that confeſs, unleſs prepare</l>
+                  <l>In times of Peace, for the aſſaults of War.</l>
+                  <l>For how can we ſuccour from him expect,</l>
+                  <l>If we our ſelves and his commands neglect.</l>
+               </sp>
+               <sp>
+                  <speaker>Sunid.</speaker>
+                  <l>Our Prince is ſafe, above the Sword of War,</l>
+                  <l>But yet his Cities ſtill in danger are,</l>
+                  <l>And though the Governours his Favour boaſt,</l>
+                  <l>If they their charge neglect his Favour's loſt,</l>
+                  <l>The charge we know to ſee his Laws obey'd,</l>
+                  <l>To have his Forces ſtill in Arms array'd,</l>
+                  <l>And truſt me Sir our care can't be too great,</l>
+                  <l>Since Enemies for our ſurprizal wait.</l>
+                  <l>And though at preſent, all things ſeem as calm,</l>
+                  <l>The Seas ſmoath brow always foregoes a Storm.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>The time of Peace muſt not be thrown away</l>
+                  <l>In Idleneſs, to Eat, and Drink, and Play,</l>
+                  <l>But to prepare for Combat. Swords will ruſt:</l>
+                  <l>If not well uſ'd, fatal polluting duſt</l>
+                  <l>Will ſpoil our Arms, if not ſometimes put on,</l>
+                  <l>Souldiers not muſter'd will in need be gone.</l>
+                  <l>If Councel err, that to this care doth guide,</l>
+                  <l>'Tis but an errour on the ſafeſt ſide.</l>
+               </sp>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <l>Then for our ſafety go do you provide,</l>
+                  <l>I would not for a World the King ſhould think</l>
+                  <l>I ſleight my charge, or at our dangers wink.</l>
+                  <l>I'le ſee due Execution ſhall be done</l>
+                  <l>In what you order. <stage>
+                        <hi>Exeunt</hi> Sunid. Ido.</stage>
+                  </l>
+               </sp>
+               <stage>So I'm glad they're gone,</stage>
+               <l>Tell me of Fears, and Dangers, none can ſee</l>
+               <l>But Cowards Eyes, they nere ſhall trouble me.</l>
+               <l>Reach me my Chair, I muſt ſit down and reſt,</l>
+               <l>To Sleep thoſe thoughts out of my troubled Breſt.</l>
+               <stage>Ance. Pathus <hi>ſet a Chair.</hi> Card. <hi>Sits.</hi>
+               </stage>
+               <pb n="6" facs="tcp:95033:8"/>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>Sit down my Lord, ther's no ſuch cauſe of dread:</l>
+                  <l>But we may well ſupply an Army's ſtead.</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>Or ſhould not all the Laws be obey'd in th' Town,</l>
+                  <l>What need you fear for that the Princes frown.</l>
+                  <l>Muſt you give anſwer for each petty thing,</l>
+                  <l>That theſe Men would believe offends the King.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>What think'ſt thou <hi>Pathus</hi> of my Glorious State?</p>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <p>A happineſs above the reach of fate,</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>And what <hi>Anoetus</hi> think'ſt thou of me?</p>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>A Glorious Prince above comparity,</l>
+                  <l>The Glory of the World, and wonder too,</l>
+                  <l>Wiſe, Honourable, Prudent, Knowing, you</l>
+                  <l>Are all of theſe, and in all theſe ſecure.</l>
+               </sp>
+               <sp>
+                  <speaker>Sunid ſpeaks within.</speaker>
+                  <p>But if you ſleep none of theſe will endure.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>How! break my reſt? abuſe the uſe of Night?</l>
+                  <l>I'le rather Night and Day ſweet Sleep invite, <stage>Sleeps.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>So, huſht as Midnight, why ſhould you purſue</l>
+                  <l>A fear, that will too ſoon appear in view.</l>
+               </sp>
+               <stage>Card. <hi>ſtarts, and calls.</hi>
+               </stage>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>
+                     <hi>Anoetus, Pathus,</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>Sir we are here,</l>
+                  <l>Although you Sleep wee don't forſake your Chair.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>What noiſe is that? <stage>A noiſe within, he ſtarts agen.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>Fear not my Lord we're by,</l>
+                  <l>Wee'd guard you ſafe or in your quarrel Die.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Idos <hi>haſtily and wakes him.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>A wake my Lord, the Town's Beleagur'd round,</l>
+                  <l>Innumerable Foes cover the Ground,</l>
+                  <l>Their bloody Enſignes declare War in view;</l>
+                  <l>And bid defiance to the Prince, and you.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>This Army Man, is but thy Coward Fear,</l>
+                  <l>When Danger's ten Mile off thou think'ſt 'tis near.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>My Lord! I ſaw <hi>Amartans</hi> Mighty Band</l>
+                  <l>Of many Legions under his Command.</l>
+                  <l>
+                     <hi>Appolyon</hi> the grand Enginere, begun</l>
+                  <l>To draw the Lines of their approach to th' Town.</l>
+                  <pb n="7" facs="tcp:95033:8"/>
+                  <l>And ſtops all Paſſages, that no relief</l>
+                  <l>May come, from our Kings General in chief.</l>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>Well let them come, wee'l eaſily defend</l>
+                  <l>The Fort, till they their utmoſt courage ſpend.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Go ſummon out your Forces, Man the Line,</l>
+                  <l>Prepare your Cannon,</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <p>But they'l Undermine, <stage>Card, <hi>Starts up.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>What though they do? is not our Force enough?</l>
+                  <l>Our Weapons good as theirs, our Armour proof?</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>'Tis true, my Lord, if you your ſelf appear,</l>
+                  <l>And with your preſence all your Army chear.</l>
+                  <l>And rally up your ſcatter'd Troops, which ſtand</l>
+                  <l>Unmoveable, though <hi>Sunidos</hi> and I Command</l>
+                  <l>'Tis all but vain:</l>
+               </sp>
+               <sp>
+                  <speaker>Car,</speaker>
+                  <p>I will not go, Sleep bids a little ſtay. <stage>Offers to ſit down.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ido,</speaker>
+                  <l>Not go My I ord? What weighty reaſon may?</l>
+                  <l>Now Honour calls, your Courage thus delay,</l>
+                  <l>Can you to Sleep a Moments ſpace afford,</l>
+                  <l>When Honour calls, and Triumph waits your Sword?</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Let Triumph hither come, to it I will not go,</l>
+                  <l>Stay till to Morrow 'tis a civil Foe.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <p>But if my Lord we are ſurpriz'd this Night?</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Tell them I'm not at leiſure now to Fight,</l>
+                  <l>I'le venture all their Force: what can they do?</l>
+                  <l>I will not break my reſt this Night for you.</l>
+                  <l>And though they win the Town before to Morrow,</l>
+                  <l>Sleeping to Night I ſhall not know my Sorrow.</l>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>Come in, my Lord, to reſt, and while you ſleep,</l>
+                  <l>You'l fear no dangers, reſt in Peace doth keep.</l>
+                  <l>In Sleep there is no fear of Fortunes frowns,</l>
+                  <l>The Begger feels no want, nor maimed Wounds. <stage>Exeunt,</stage>
+                  </l>
+               </sp>
+               <trailer>End of the Firſt Act.</trailer>
+            </div>
+            <div type="interlude">
+               <pb n="8" facs="tcp:95033:9"/>
+               <head>INTERMASKE</head>
+               <stage>Interpres <hi>and</hi> Scrutator <hi>meet, Salute, and Walk on,</hi> &amp;c.</stage>
+               <sp>
+                  <speaker>Scrut.</speaker>
+                  <l>YOu've undertook the task: now I'le impoſe,</l>
+                  <l>Read me the Ridle of this firſt Acts cloſe.</l>
+                  <l>What careleſs Fool is this: that hath this truſt,</l>
+                  <l>Yet neither to himſelf nor Prince is juſt?</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>This careleſs Man doth repreſent Mans Heart,</l>
+                  <l>The Cities Man, govern'd by that chief part,</l>
+                  <l>Which boaſts its ſelf by Birth to be Divine,</l>
+                  <l>Owning it doth by borrow'd Luſtre Shine.</l>
+                  <l>Truſting to that, no want nor danger fears,</l>
+                  <l>Reſolving for it ſelf to take no cares.</l>
+               </sp>
+               <sp>
+                  <speaker>Scrut.</speaker>
+                  <l>Who are his four attendents? two of which</l>
+                  <l>Foſter his Folly, rub his careleſs Itch,</l>
+                  <l>The other two, ſeem to adviſe him well,</l>
+                  <l>In real Love his threatning dangers tell.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Theſe four are th' inbred Gueſts of th'natural Heart.</l>
+                  <l>Paſſion and Folly Act the Flatterers part,</l>
+                  <l>Cheating poor Man, blind both his Ear and Eye,</l>
+                  <l>He ſees not Knowledg, hears not Concience cry,</l>
+                  <l>Thoſe are the two oppoſe this Treachery.</l>
+               </sp>
+               <sp>
+                  <speaker>Scrut.</speaker>
+                  <l>Yet Knowledg both and Conſcience ſpeak his Power,</l>
+                  <l>No force can win the Hearts united Tower</l>
+                  <l>But Rebels from within.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Man's his own Foe.</l>
+                  <l>His inbred Luſts betray himſelf to woe.</l>
+               </sp>
+               <sp>
+                  <speaker>Scrut.</speaker>
+                  <p>What means this Seige which Knowledg doth declare?</p>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Man's born a Combatant deſign'd for War,</l>
+                  <l>Satan and Sin his Foes the Seige begin.</l>
+                  <l>Mans Heart's the Citi's Fort weakly wall'd in,</l>
+                  <pb n="9" facs="tcp:95033:9"/>
+                  <l>Yet careleſs Heart, it ſelf doth care deny,</l>
+                  <l>With Sloth endures all their Battery.</l>
+                  <l>Mindleſs of its own good: no watch doth keep,</l>
+                  <l>But in the greateſt Dangers Foſters Sleep.</l>
+                  <l>And the next Scene ſhall ſet before your Eye,</l>
+                  <l>The Hearts great danger falſe Security.</l>
+               </sp>
+               <stage>
+                  <hi>The Curtain drawn diſcovers</hi> Cardian <hi>Sleeping in his Chair</hi> Anoetus <hi>and</hi> Pathus <hi>behind him, a Sword drawn with the point downward hanging over his Head,</hi> Interpres <hi>ſpeaks.</hi>
+               </stage>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>The careleſs Heart (my dear <hi>Scrutator</hi>) ſees,</l>
+                  <l>By irkſome Folly taught to ſeek falſe eaſe.</l>
+                  <l>The Sword of Vengeante drawn, hangs o're his Head,</l>
+                  <l>Yet careleſs Sleeps as if he'ed nothing dread.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <p>Will none awake him?</p>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>That this next Act will ſhow,</l>
+                  <l>Yet warnings ſlighted he'l more careleſs grow.</l>
+               </sp>
+               <stage>They retire to ſtanding at the Curtain:</stage>
+            </div>
+            <div n="2" type="act">
+               <head>ACT. II.</head>
+               <stage>
+                  <hi>Enter</hi> Kerux, Idos, Sunidos, <hi>and walk to the end of the Stage.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>WHat's that I ſee? ſuits this with the renown</l>
+                  <l>Of him, that Governs this moſt famous Town?</l>
+                  <l>Is this your care? that have been thus prefer'd</l>
+                  <l>To be his Councel.</l>
+               </sp>
+               <sp>
+                  <speaker>Sunid.</speaker>
+                  <l>Sir we can't be heard.</l>
+                  <l>We've done our duty, and his dangers ſhown,</l>
+                  <l>Therefore he leſt us thus to ſleep alone.</l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <p>Who blinds his Eyes, and thus deludes his Mind?</p>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <p>Sir there you ſee, his Slaves attend behind</p>
+                  <pb n="10" facs="tcp:95033:10"/>
+                  <l>Advanc'd to favour, we excluded are,</l>
+                  <l>And never call'd, or if we preſs more near,</l>
+                  <l>Lookt on but as Intruders, tyreſome Friends</l>
+                  <l>Whoſe Words againſt his inclination bends.</l>
+                  <l>We're weary Sir of being ſlighted ſo,</l>
+                  <l>Whilſt <hi>Pathus,</hi> and that Slave for Favorites go.</l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>Yet do your duty and be faithful ſtill,</l>
+                  <l>We may redeem him from the worſt of ill.</l>
+                  <l>Go and awake him tell him who is here.</l>
+               </sp>
+               <stage>Ido. <hi>and</hi> Suni. <hi>goe and ſhake him.</hi>
+               </stage>
+               <sp>
+                  <speaker>Suni.</speaker>
+                  <p>Awake, my Lord Ambaſſador is near.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Who's that diſturbs me? and renews my fear, <stage>
+                        <hi>Speaks drowſily ſees not</hi> Kerux.</stage>
+                  </l>
+                  <l>My Foes I had forgot, nor felt a Wound,</l>
+                  <l>Heard not the Drums alarm, nor Trumpets Sound.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>Yet thoſe, who to falſe peace do you betray,</l>
+                  <l>Under the greateſt danger make you ſtay.</l>
+               </sp>
+               <sp>
+                  <speaker>Sunid.</speaker>
+                  <l>Look up my Lord? and then you ſoon will ſee</l>
+                  <l>What Danger's near, how far from Peace you be.</l>
+               </sp>
+               <stage>Card. <hi>looks up: ſeeing a Sword: ſtarts up amazed Speaks to</hi> Anoe. <hi>and</hi> Path.</stage>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>Is this your care?</p>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>This was but a miſtake.</l>
+                  <l>Nor had it troubled you but that you wake.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Well, then I'le ſhiſt my Place and Sleep again, <stage>Curtains drawn his Chair ſee out, he ſits down.</stage>
+                  </l>
+                  <l>Since waking does betray me to this pain.</l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>My Lord I'm much ſurpriz'd to find you ſo</l>
+                  <l>Careleſs, and to indulge that Folly too.</l>
+                  <l>Forgetting your high Birth, and Truſt, and Place,</l>
+                  <l>When Honour calls in Sloth to ſeek diſgrace.</l>
+               </sp>
+               <stage>Card <hi>As not having ſeen him before riſes to receive him.</hi>
+               </stage>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>My Lord your Pardon, I did not know you were here,</l>
+                  <l>Reach for my Lord Ambaſſadour a Chair. <stage>
+                        <hi>Chair brought</hi> Ker. <hi>ſits.</hi>
+                     </stage>
+                  </l>
+                  <l>We're ready Sir to hear thoſe high Commands</l>
+                  <l>Our Prince has ſent unto us, by your hands:</l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>The King my Maſter bids me let you know</l>
+                  <l>You're in great danger, though you think not ſo.</l>
+                  <pb n="11" facs="tcp:95033:10"/>
+                  <l>And you neglect the Councellors he gave,</l>
+                  <l>And to your ruine truſt a wretched Slave.</l>
+                  <l>When this neglect ſhall you to ruine bring,</l>
+                  <l>How can you anſwer it before the King?</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>I think my Lord Ambaſſador ſpeaks true, <stage>
+                        <hi>To</hi> Sunid.</stage>
+                  </l>
+                  <l>I in my Councels muſt be rul'd by you.</l>
+               </sp>
+               <sp>
+                  <speaker>Suni.</speaker>
+                  <p>Yet hear him further what he hath to ſay.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>Speak on my Lord, I your commands obey.</p>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>Thoſe threatning dangers, which about you ſtand,</l>
+                  <l>Call forth your courage, and your armed Hand. <stage>
+                        <hi>While this is ſpoke</hi> Card. <hi>whiſpers with</hi> Sunid. Ido. Anoe. Path. <hi>by turns, and at laſt Sleeps.</hi>
+                     </stage>
+                  </l>
+                  <l>And 'tis your Princes will that you ſhould Fight,</l>
+                  <l>Stand in the Battel, and maintain his right.</l>
+                  <l>Nor ſhall you want Aſſiſtance, nor Reward,</l>
+                  <l>If you his Honour, your own good regard.</l>
+                  <l>The Foe would change thoſe Laws which he doth give,</l>
+                  <l>And without which this City cannot live.</l>
+                  <l>Thoſe then you muſt preſerve inviolate,</l>
+                  <l>Which while you do, no Foe can work your fate.</l>
+                  <l>To Loyalty your own high Birth doth move,</l>
+                  <l>And the endearments of your Princes love.</l>
+                  <l>Your Conqueſt, by reſiſting, you'l obtain:</l>
+                  <l>And from your Prince Immortal Glory gain.</l>
+                  <l>He'l ſend his Son with Power the Seige to raiſe,</l>
+                  <l>And Crown your Heads with never dying Bayes.</l>
+                  <l>To this your Councels, <hi>Idos, Sunidos</hi> will</l>
+                  <l>Prompt and Inſtruct you: That do you fulfil.</l>
+                  <l>But if to home born Rebels you give way,</l>
+                  <l>They'l to compliance with your Foes betray.</l>
+                  <l>And if you baſely yeild, expect to be</l>
+                  <l>A Slave in Chains of baſe Captivity. <stage>Card. <hi>Sleeps.</hi>
+                     </stage>
+                  </l>
+                  <l>From which you'l hardly ever be redeem'd:</l>
+                  <l>Nor by your Prince, nor your own Slaves eſteem'd.</l>
+                  <l>My Lord you mind not ſure what I have ſaid.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Yes, yes my Lord, but I've a buſy Head, <stage>Drowſily.</stage>
+                  </l>
+                  <l>The preſent troubles do diſtract my Mind,</l>
+                  <l>But you in me ſhall all obedience find.</l>
+                  <l>And ſo commend my Service to my Prince. <stage>
+                        <hi>Riſes. So</hi> Ker.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>That Service by your deeds you muſt evince:</l>
+                  <pb n="12" facs="tcp:95033:11"/>
+                  <l>Take heed your Service be not only words,</l>
+                  <l>That will expoſe your Breaſt to all the Swords</l>
+                  <l>Your Enemies can draw, nor can there be</l>
+                  <l>Nor to your ſelf, nor Prince, worſe Treachery.</l>
+               </sp>
+               <stage>
+                  <hi>Exit.</hi> Ido. Sunid. <hi>attending him.</hi>
+               </stage>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>This tedious, doting, old Fool ſtaid ſo long,</l>
+                  <l>That I began to fear he'd nere be gone,</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>And now his two grave Friends will be ſo bold,</l>
+                  <l>That you muſt be by their advice controul'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>No, I'can hear with patience what they'l ſay,</l>
+                  <l>But it is in my choiſe what to obey.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Sunid. <hi>haſtily, his Sword drawn.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sunid.</speaker>
+                  <l>My Lord! call all your force to Battel ſtraight,</l>
+                  <l>The Enemy attempts to force the Gate,</l>
+                  <l>Rebels within prepare to let them in,</l>
+                  <l>Tis time to ſhow your ſelf and th'Fight begin.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>What ſhall I do? I fear I can't withſtand</l>
+                  <l>This mighty force, with my weak armed Hand.</l>
+               </sp>
+               <sp>
+                  <speaker>Suni.</speaker>
+                  <l>Sir, you forget whoſe Battel 'tis you Fight,</l>
+                  <l>The Prince will help you to maintain his right;</l>
+                  <l>If once they ſee his Banner you diſplay,</l>
+                  <l>Their very courage then will melt away.</l>
+                  <l>Your Sloth and Fear give courage to their Brow:</l>
+                  <l>That arms their Hands, and gives them Conqueſt too.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Then I will go, and Conquer where I go, <stage>
+                        <hi>Draws, ſo de</hi> Anoe. <hi>and</hi> Path.</stage>
+                  </l>
+                  <l>No ſlothful fear ſhall me betray to Woe.</l>
+                  <l>And o're ſuſpected Rebels ſet ſuch Spies,</l>
+                  <l>Shall check rebellion e're it can ariſe.</l>
+                  <l>Come, we are ready. <stage>Offers to go out but ſtarts back.</stage>
+                  </l>
+               </sp>
+               <stage>Buy ſtay who muſt command?</stage>
+               <sp>
+                  <speaker>Sunid.</speaker>
+                  <l>Theſe are too weak their fury to withſtand,</l>
+                  <l>If you rely on them, they will betray</l>
+                  <l>You to your Foes, and open them the way.</l>
+               </sp>
+               <pb n="13" facs="tcp:95033:11"/>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <p>Accuſe them not, they do but ſeek my eaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Suni.</speaker>
+                  <p>They'l work your Death under pretence of Peace.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>If I do Fight, I am reſolv'd they lead.</p>
+               </sp>
+               <sp>
+                  <speaker>Suni.</speaker>
+                  <p>Then for the Sword prepare your careleſs Head. <stage>Exit. Angrely.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>This ſawcie Fellow ſure would Govern me.</p>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <p>And make you rule chain'd in his Slavery.</p>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>Wee'l eaſe you of this trouble if you will</l>
+                  <l>Give us command to Act, while you ſit ſtill.</l>
+                  <l>We'el meet your Foes, and if we find them ſtrong,</l>
+                  <l>A Peace or Truce wee'l make, that can't be wrong</l>
+                  <l>To you, nor to the Prince.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Well, then I'le take my reſt, <stage>
+                        <hi>Puts up his Sword.</hi> Anoe. <hi>Exit. they put up.</hi>
+                     </stage>
+                  </l>
+                  <l>And leave you two to do as you think beſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>Then will we our own intereſt firſt ſecure,</l>
+                  <l>And make theſe Councellors in Priſon ſure.</l>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>They hinder but the Peace, what need we Fight?</l>
+                  <l>On eaſy terms wee'l make a Peace this Night.</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>And in the Morning, the City ſhall enjoy</l>
+                  <l>The love of them, it now ſeeks to deſtroy.</l>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>Let us about ir ſtraight, leſt diſcontent</l>
+                  <l>In <hi>Idos</hi> and <hi>Sunidos,</hi> us prevent. <stage>Exeunt,</stage>
+                  </l>
+               </sp>
+               <trailer>End of Second Act.</trailer>
+            </div>
+            <div type="interlude">
+               <head>INTERMASKE</head>
+               <stage>Interpres <hi>and</hi> Scrutator <hi>meet, Salute, and Walk on,</hi> &amp;c.</stage>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>ALas poor Heart! methinks in this I ſee</l>
+                  <l>That very careleſsneſs that troubles me.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>True Sir, you judge aright, as Face to Face</l>
+                  <l>Anſwers in Water, ſo is it in this caſe,</l>
+                  <pb n="14" facs="tcp:95033:12"/>
+                  <l>The ſame corruption fills your Heart, and mine,</l>
+                  <l>In this Poetick Glaſs we ſee them ſhine.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>How ſoon he's reconciled to thoſe Slaves</l>
+                  <l>That ſet him in the danger, and again</l>
+                  <l>Will truſt the Knaves.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>So quickly Men forget, that Luſts do lead</l>
+                  <l>Them to the Paths and Chambers of the Dead,</l>
+                  <l>And ſoon again repeat their baſe deſires,</l>
+                  <l>Though vengeance Sword threatens Eternal Fires.</l>
+               </sp>
+               <sp>
+                  <speaker>Scr.</speaker>
+                  <l>Who's this Ambaſſadour? and who the Prince?</l>
+                  <l>That doth with Truth the drowſy Heart convince,</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>The Prince is our great Governour above,</l>
+                  <l>VVho in Divine and never failing Love</l>
+                  <l>By choſen Meſſengers ſpeaks to the Heart,</l>
+                  <l>His living VVords Direction to impart,</l>
+                  <l>To know his dangers, and his Friends and Foes,</l>
+                  <l>VVith this advice Knowledg, and Conſcience cloſe.</l>
+                  <l>The Heart by this is of the Truth convinc'd,</l>
+                  <l>Inclines to yeild Obedience to his Prince.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>He ſeems to honour the Ambaſſadour,</l>
+                  <l>Commends his VVords, and lends a patient Ear.</l>
+                  <l>Yet I obſerv'd, that all the while he ſpake</l>
+                  <l>The Sweets of Truth, that <hi>Cardian</hi> did make</l>
+                  <l>But ſmall obſervance, ever ſeem'd to talk;</l>
+                  <l>Continual whiſpering his Tongue did walk,</l>
+                  <l>Sometimes with one, and ſometimes with another;</l>
+                  <l>In ſilent whiſpers ſecret thoughts did ſmother,</l>
+                  <l>At laſt directly Sleeps.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>'Twas well obſerv'd, that ſecret whiſpering</l>
+                  <l>Shows the poor careleſs Hearts vain wandering,</l>
+                  <l>VVhich when the Ear is ſet to hear in ſhow,</l>
+                  <l>Ofttimes the Heart doth in looſe wand'rings flow.</l>
+                  <l>Sometimes with Conſcience the VVord approves, and then</l>
+                  <l>The worldly Toys enjoy the Heart agen.</l>
+                  <l>So ſtrange a mixture, Man would bluſh to ſee</l>
+                  <l>Such Follies in his Heart tranſacted be.</l>
+                  <l>VVho thus himſelf deceives, doth only bring</l>
+                  <l>A dead, and hartleſs Carcaſe, to his King.</l>
+               </sp>
+               <pb n="15" facs="tcp:95033:12"/>
+               <sp>
+                  <speaker>Seru.</speaker>
+                  <l>Yet after all his fair pretence of Love,</l>
+                  <l>His reſolutions otherwiſe do move.</l>
+                  <l>To his dull careleſs way,</l>
+                  <l>His Slaves do eaſily ſway.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Thus holy reſolutions quickly fail,</l>
+                  <l>Paſſion and Folly eaſily prevail,</l>
+                  <l>And all advice is very ſoon forgot;</l>
+                  <l>The careleſs hear, as if they heard it not.</l>
+                  <l>And thus the Heart it ſelf betrays to woe,</l>
+                  <l>Deceiving others doth it ſelf undoe:</l>
+                  <l>Till careleſsneſs the Heart ſo hardens o're,</l>
+                  <l>It loves thoſe Enemies, it fear'd before.</l>
+                  <l>That Curtain drawn will ſhow the hard ſear'd Heart,</l>
+                  <l>Half dead in Sin feeles not the greateſt ſmart.</l>
+               </sp>
+               <stage>
+                  <hi>Curtains drawn: diſcovers</hi> Cardian <hi>ſitting, black patches on his Eyes: ſtopping his Ears with his Hands:</hi> Anoetus Pathus <hi>on each ſide ſtand thruſting Swords at his Side.</hi>
+               </stage>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <p>VVhat black is that which covers o're his Eyes?</p>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <p>Thick Scales of blindneſs from careleſsneſs ariſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <p>VVhat means his Hands?</p>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>VVith thoſe he ſtops his Ears,</l>
+                  <l>Leſt he the voice of Truth, or Conſcience hears.</l>
+                  <l>And there his inbred Luſts their drawn Swords dart,</l>
+                  <l>Levelling unrebated points at's Heart.</l>
+                  <l>So hard, he nothing feels: but now no more,</l>
+                  <l>The reſt you'l ſee e're the next Act be o're.</l>
+               </sp>
+               <stage>Shut the Curtains and retire to Standings:</stage>
+            </div>
+            <div n="3" type="act">
+               <pb n="16" facs="tcp:95033:13"/>
+               <head>ACT. III.</head>
+               <stage>
+                  <hi>Enter</hi> Pathus, Anoetus.</stage>
+               <sp>
+                  <speaker>Anoe</speaker>
+                  <l>SO now the work is done, our peace is made,</l>
+                  <l>Nor are we longer of our Foes afraid,</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>VVhat Folly had it been for us to Fight,</l>
+                  <l>VVhen ſuch ſweet charms do us to peace invite?</l>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>Now we alone the Governour ſhall ſway,</l>
+                  <l>VVhile <hi>Idos</hi> and <hi>Sunidos</hi> are away.</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <p>But are you ſure they are in Priſon bound?</p>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>I ſaw them both faſt chain'd unto the ground,</l>
+                  <l>Nor is it likely they eſcape again;</l>
+                  <l>Since <hi>Cardian</hi> is delighted with their pain.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Cardian.</stage>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <p>My Lord! we bring you moſt ſurpriſing news.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>What comes from you I never ſhall refuſe.</l>
+                  <l>But I already underſtand your care:</l>
+                  <l>How without fighting we in quiet are.</l>
+                  <l>Methinks I now do rule, grown abſolute,</l>
+                  <l>Impris'ning thoſe, that my commands diſpute.</l>
+                  <l>As if nothing were done without the King,</l>
+                  <l>But all my actions to his Laws would bring,</l>
+                  <l>To try by them if all were right and good,</l>
+                  <l>As though I nothing ever underſtood.</l>
+               </sp>
+               <sp>
+                  <speaker>An.</speaker>
+                  <l>But Peace is now confirm'd th' Articles ſign'd,</l>
+                  <l>Such as agree with your Imperial Mind.</l>
+                  <l>And ſhould the King this Covenant diſlike,</l>
+                  <l>He's far, and will be long e're he can ſtrike.</l>
+               </sp>
+               <sp>
+                  <speaker>Pa.</speaker>
+                  <l>What need we think of him? can't you alone</l>
+                  <l>Govern this City? let him mind his Throne.</l>
+                  <l>'Tis much below his Honour, and Renown,</l>
+                  <l>To mind the little tricks of every Town.</l>
+               </sp>
+               <pb n="17" facs="tcp:95033:13"/>
+               <sp>
+                  <speaker>An.</speaker>
+                  <l>Thoſe ſly Informers that would troubles make,</l>
+                  <l>Quarelling thoſe which you to union take.</l>
+                  <l>Are faſt enough.</l>
+               </sp>
+               <sp>
+                  <speaker>Gar.</speaker>
+                  <l>—Nay I their quarrels ſlight,</l>
+                  <l>So much I in this new made Peace delight,</l>
+                  <l>And the ſweet carriage of my once fear'd Foes,</l>
+                  <l>For all their words I'le not theſe pleaſures looſe.</l>
+               </sp>
+               <stage>Exeurs.</stage>
+               <stage>
+                  <hi>Enter</hi> Kerux <hi>alone.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>What dreadful miſts do blind <hi>Cardians</hi> Eyes</l>
+                  <l>That he is now become the Rebels prize.</l>
+                  <l>All warnings loſt to him, all reaſon vain?</l>
+                  <l>Flatter'd by Fooliſh Paſſion, to never dying pain.</l>
+                  <l>His Enemies ſuffer'd to rule in part,</l>
+                  <l>But will hereafter quite ſubdue his Heart:</l>
+                  <l>His faithful Councellors in Priſon caſt,</l>
+                  <l>His Loyalty doth baſe rebellion blaſt,</l>
+                  <l>Yet to my Prince and him I'le true remain,</l>
+                  <l>And ſhow him yet what ſpots his Mind do ſtain.</l>
+                  <l>The Priſon is not far where there do lye</l>
+                  <l>His beſt of Friends in darkeſt Miſery.</l>
+                  <l>This is the Door I will look in and ſee</l>
+                  <l>How ſar I can regain their liberty.</l>
+               </sp>
+               <stage>
+                  <hi>Draws the Curtain: within are diſcovered</hi> Idos <hi>and</hi> Sunidos: <hi>as in Priſon bound and gag'd.</hi>
+               </stage>
+               <lg>
+                  <l>What fatal crime hath brought you to this place?</l>
+                  <l>Or what ſly Traitor wrought you this diſgrace? <stage>After Pauſe,</stage>
+                  </l>
+                  <l>What can't you ſpake? Alas you'r gag'd I ſee,</l>
+                  <l>VVell I will looſe your Tongues, and ſet them free.</l>
+               </lg>
+               <stage>Takes out the Gags.</stage>
+               <sp>
+                  <speaker>Said.</speaker>
+                  <l>Baſely betray'd, the Enemy drew near,</l>
+                  <l>And we together did his forces chear,</l>
+                  <l>Inſtead of Fight, he baſely do's compound;</l>
+                  <l>And none but we did feel the ſmalleſt wound.</l>
+               </sp>
+               <pb n="18" facs="tcp:95033:14"/>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>And for our care the Priſon's our reward,</l>
+                  <l>
+                     <hi>Anoetus</hi> and <hi>Pathus</hi> head his Guard.</l>
+                  <l>And our expulfion for falſe peace doth pay,</l>
+                  <l>That they more ſafely may his Life betray.</l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>I have reſtor'd your Tongues, now ſee that you</l>
+                  <l>Employ them to inform him what is true.</l>
+                  <l>He'ſ come ere long this way, when he draws near,</l>
+                  <l>Be ſure that he may both your Voices hear.</l>
+               </sp>
+               <stage>Shuts the Curtains and walks off.</stage>
+               <lg>
+                  <l>Now though he hate me I to find him go,</l>
+                  <l>Of this falſe Peace his certain Sorrows t' ſhow.</l>
+               </lg>
+               <stage>Exit.</stage>
+               <stage>
+                  <hi>Enter</hi> Cardian <hi>Solus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>How ſweet a Life is this! all fears are gone,</l>
+                  <l>My City's ſafe and I command alone:</l>
+                  <l>My Enemies are now become my Friends,</l>
+                  <l>And I their Sorvice uſe to my own ends,</l>
+                  <l>I neither fear my Prince, nor ſeek his aid,</l>
+                  <l>No terrors near to make my Heart afraid.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Pathus.</stage>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <p>Sir here is <hi>Kerux</hi> the Ambaſſadour,</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>His abſence to his preſence I prefer.</l>
+                  <l>Say I am not at leaſure now to lend</l>
+                  <l>An Ear to th tedious meſſage he intends.</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>I fear he'ſ not be ſo put off, he's come,</l>
+                  <l>And preſſes after me to the next Room.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Tell him, O tell him any thing, that ſo</l>
+                  <l>He may depart, or I from hence may go, <stage>
+                        <hi>Offers to go and Enter</hi> Ker. <hi>anotherway and</hi> Anoetus with him.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Pa.</speaker>
+                  <p>'Tis now too late, ſee where he do's appear.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>What ere he ſays, I'ſe not regard not hear.</p>
+               </sp>
+               <stage>Retire to the Curtains, ſtop his Ears.</stage>
+               <pb n="19" facs="tcp:95033:14"/>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>Sir, I am come your danger to declare,</l>
+                  <l>You think you've Peace, but a more dreadful <stage>War</stage>
+                  </l>
+                  <l>Is comming to your Gates: rebellious places</l>
+                  <l>Provoke their Prince unto their own diſgraces.</l>
+                  <l>They who refuſe to have their Prince their Friend,</l>
+                  <l>Call for his Wrath in peices them to rend.</l>
+                  <l>Your feigned Friends can't help you, for one frown</l>
+                  <l>Of his can make the ſtrongeſt Forts fall down.</l>
+                  <l>His Son his Army leads, and wont delay,</l>
+                  <l>But comes to puniſh thoſe that diſobey.</l>
+                  <l>To thoſe that ſlight his love and Mercies day,</l>
+                  <l>His Arm to ſwift revenge will cut his way.</l>
+                  <l>How now? not hear?</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>Sir he can rule alone,</l>
+                  <l>Nor fears your Princes Frowns, nor from his Throne</l>
+                  <l>Deſires help:</l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>If then your Ears you ſtop: open your Eyes, <stage>Shows his Commiſſion.</stage>
+                  </l>
+                  <l>Can you his Precepts written here diſpiſe?</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>Theſe pretty Fancies Sir he foorns to ſee, <stage>Path. Anoe. <hi>put their hands beſpre his Eyes.</hi>
+                     </stage>
+                  </l>
+                  <l>They cannot ſhake him from ſecurity.</l>
+                  <l>He will not doubt to find his Princes love,</l>
+                  <l>You in his mind do needleſs terrors move.</l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>Nay then he's loſt; your Treachery hath won;</l>
+                  <l>He by rebellion hath himſelf undone.</l>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>The threatn'd Man lives long, he may do ſo,</l>
+                  <l>Go and inſecret now lament his voe,</l>
+                  <l>VVhile we laugh at the unſeen <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> blow.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>So he is gone at laſt what was 'the ſaid, <stage>
+                        <hi>Exit.</hi> Keru. <hi>and then teke down their hands.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <p>Nothing you either need regard or dread.</p>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>
+                     <hi>Amartan</hi> by the Articles of Peace</l>
+                  <l>Is made high Steward, and he claims his Plade.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Well, he ſhall be inſtail'd this day, but you</l>
+                  <l>See that he be unto our intereſt true.</l>
+               </sp>
+               <sp>
+                  <speaker>Suni.</speaker>
+                  <p>
+                     <hi>within.</hi> Haſtening that ruine, that to your Folly's due.</p>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>Ha! How got you your Tongue at liberty? <stage>ſtarting back.</stage>
+                  </l>
+                  <l>Your bawling ceaſe or you ſhall ſtifled be.</l>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>When <hi>Amartan</hi> the Stewardſhip hath got,</l>
+                  <l>He's puniſh you with Death, or Priſon rot,</l>
+                  <pb n="20" facs="tcp:95033:15"/>
+                  <l>Or clap the ſearing Iron to your Throat.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>Well I can hear and yet not mind his Voice. <stage>
+                        <hi>Exit.</hi> Car.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <p>'Tis that will make <hi>Amartans</hi> Heart rejoyce.</p>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>Come let's go to his Chamber to conſult</l>
+                  <l>To keep <hi>Cardian,</hi> leſt he ſhould revolt.</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>But in dark Paths we muſt our Councels guide,</l>
+                  <l>Leſt our deſigns ſhould be by him deſcry'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>Nor muſt the ſmalleſt whiſper this convey,</l>
+                  <l>To <hi>Idos</hi> or <hi>Sunidos,</hi> for ſhould they</l>
+                  <l>Diſcover what we do, though they are bound,</l>
+                  <l>They'l make our deeds out of the Priſon ſound.</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>And ſhould he either back from Priſon call,</l>
+                  <l>He would grow Loyal, and ſo ruine all. <stage>Exeunt.</stage>
+                  </l>
+               </sp>
+               <trailer>The End of the Third Act.</trailer>
+            </div>
+            <div type="interlude">
+               <head>INTERMASKE.</head>
+               <stage>Interpres <hi>and</hi> Scrutator <hi>come and Salute and walk on,</hi> &amp;c.</stage>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>WHat means this Peace, dear Sir! which they ſo boaſt?</l>
+                  <l>As though it never could again be loſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>This Peace they Boaſt, is but a ſlippery tye,</l>
+                  <l>And no true Peace but falſe ſecurity,</l>
+                  <l>Which the Heart never has until it wound</l>
+                  <l>Its Knowledg, and can keep its Conſcience bound.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>Yet he here at rejoyces as if free,</l>
+                  <l>His Princes Laws ſhook of, he at liberty.</l>
+               </sp>
+               <sp>
+                  <speaker>Ina.</speaker>
+                  <l>Thus when the Heart its Power gives up to Sin,</l>
+                  <l>To ſlight the Laws Divine it doth begin,</l>
+                  <l>Flattering himſelf, ſays the moſt high don't know,</l>
+                  <l>Or not regard the things done here below.</l>
+                  <pb n="21" facs="tcp:95033:15"/>
+                  <l>Pleaſ'd with his Folly ſlights his Conſcience call.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>Yet <hi>Kerux</hi> here once more diſcovers all,</l>
+                  <l>And doth again untie the Conſcience Tongue.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>The Power of the Word Divine is ſtrong,</l>
+                  <l>And gives new Voice to Conſcience, whoſe ſtrong cry</l>
+                  <l>Never forſakes the Sinner, though he die:</l>
+               </sp>
+               <sp>
+                  <speaker>Scr.</speaker>
+                  <l>All's well he thinks, and now no danger neer,</l>
+                  <l>But <hi>Kerux</hi> brings new motives unto fear.</l>
+                  <l>Firſt he avoids to ſee'm, and when he's come:</l>
+                  <l>His Ears are ſtopt, Eyes ſhut, and Tongue is dumb.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>This ſhows what ſhifts the heardned Heart doth uſe</l>
+                  <l>To ſhut out Truth, and ſo it ſelf abuſe.</l>
+                  <l>The danger threaten'd, is at the dreadful Day,</l>
+                  <l>When Juſtice ſhall to all their own works pay.</l>
+                  <l>By Peace with Sin, the Peace above is broke,</l>
+                  <l>The Heart expoſ'd to Vengeance dreadful ſtroke.</l>
+                  <l>But the Heart by degrees doth grow ſo hard,</l>
+                  <l>As neither threats or promiſe to regard,</l>
+                  <l>With Death in Covenant, at Peace with Hell,</l>
+                  <l>Flatters it ſelf, as if all things were well.</l>
+                  <l>And Truths advice will neither read, nor hear,</l>
+                  <l>Blind with Preſumption will not danger fear,</l>
+                  <l>For love ſtill hopes: forgets Juſtice of God,</l>
+                  <l>Laughs at the thoughts of his revenging Rod;</l>
+                  <l>But who continues proffered Love to ſlight,</l>
+                  <l>Shall find his Portion in Eternal Night.</l>
+                  <l>And here I thought to ſtop, but will proceed</l>
+                  <l>To ſhow the Heart under Convictions bleed.</l>
+               </sp>
+               <stage>They retire too Standing at the Curtains.</stage>
+            </div>
+            <div n="4" type="act">
+               <pb n="22" facs="tcp:95033:16"/>
+               <head>ACT. IV.</head>
+               <stage>
+                  <hi>Enter</hi> Cardian <hi>Solus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <l>THis Inſolence I can no way endure,</l>
+                  <l>But muſt find out ſome way to eaſe, or cure.</l>
+                  <l>
+                     <hi>Amartan</hi> now is greater grown then me,</l>
+                  <l>All him Obey, and my Commands they flie.</l>
+                  <l>What have I got by yeilding? ſmall content,</l>
+                  <l>Nothing that laſts, but a ſhort blandiſhment.</l>
+                  <l>Councels are held from me, in ſecreſie,</l>
+                  <l>The grand Cabal doth in his Lodgings lie.</l>
+                  <l>Nor ever can I know what 'tis they do,</l>
+                  <l>Till 'tis in Action, and half finiſhed too.</l>
+               </sp>
+               <sp>
+                  <speaker>Suni. within.</speaker>
+                  <p>And all will end in this to ruine you.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Well, Sir, I hear, but cannot that believe, <stage>As ſlighting.</stage>
+                  </l>
+                  <l>Nor yet from Priſon will I give reprieve.</l>
+                  <l>But <hi>Idos</hi> ſhall in part my favour find,</l>
+                  <l>I want his Councel to inſtruct my mind.</l>
+                  <l>If he'l contented be to know nothing</l>
+                  <l>Beſides my ſelf, to be his Lord and King,</l>
+                  <l>And keep his fooliſh Tongue from prating more,</l>
+                  <l>Dreadful Alarms, upon the Princes ſcore:</l>
+                  <l>And only teach me how I may Command</l>
+                  <l>Thoſe Slaves, that do begin to hold my hand.</l>
+                  <l>I find their rudeneſs makes me ſomething weak,</l>
+                  <l>Which if continued all my ſtrength will break,</l>
+                  <l>I am reſolv'd to try what <hi>Idos</hi> will do. <stage>Pauſes.</stage>
+                  </l>
+                  <l>Perchance now he has th'Priſons ſadneſs try'd,</l>
+                  <l>Thoſe Chains may put a curb unto his Pride.</l>
+                  <l>But if he'l not be rul'd, I will again</l>
+                  <l>Send him to Priſon, to his former pain.</l>
+                  <l>I know theſe new come Friends will ne're agree</l>
+                  <l>That he ſhould be reſtor'd to Liberty.</l>
+                  <pb n="23" facs="tcp:95033:16"/>
+                  <l>Therefore 'tis my own hands that deed muſt do,</l>
+                  <l>That favour will the more oblige him too.</l>
+               </sp>
+               <stage>
+                  <hi>Opens the Curtains,</hi> Idos <hi>and</hi> Sunidos <hi>in Priſon as before</hi>
+               </stage>
+               <lg>
+                  <l>Has yet the weight of Priſon taught you how</l>
+                  <l>With low Obedience, to my Precepts bow?</l>
+               </lg>
+               <sp>
+                  <speaker>Suni.</speaker>
+                  <l>Ah Sir! will you at length ſome pitty take</l>
+                  <l>On our unjuſt reſtraint, for your own ſake?</l>
+                  <l>'Tis you will feel the grief that we're confin'd,</l>
+                  <l>In our releaſe you to your ſelf are kind.</l>
+               </sp>
+               <sp>
+                  <speaker>Caer.</speaker>
+                  <p>Peace Slave, for you I yet no kindneſs have,</p>
+               </sp>
+               <sp>
+                  <speaker>Sn.</speaker>
+                  <l>Ah Sir my wounds will bring you to your Grave.</l>
+                  <l>Thoſe cruel wounds which they inflict on me,</l>
+                  <l>By fatal Magick they transfer on thee:</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Sir for your part you ſhall in Priſon lie,</l>
+                  <l>You ſtill are inſolent, but I'le untie <stage>Unbinds him, he riſes, and bows, ſhuts the Curtain.</stage>
+                  </l>
+                  <l>The Bonds of <hi>Idos:</hi> and thus ſet him free.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <p>I own you th' Author of my Libertie.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Let your unruly Tongue keep within bounds'</l>
+                  <l>And no more utter old diſtaſtful ſounds.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>I can't forbear if dangers are in view,</l>
+                  <l>I can't conceal them, but muſt ſay what's true.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>If dangers real be, but do not feign</l>
+                  <l>Pretended dangers, to renew my pain.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>Theſe your pretended Friends great perils be,</l>
+                  <l>Which you'l diſcover by their hate of me.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>That they won't like your liberty I grant,</l>
+                  <l>Yet they will never let me Pleaſures want,</l>
+                  <l>But thoſe on me in ſuch diſorder preſs,</l>
+                  <l>I ſeek advice diſorders to redreſs.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>That cannot be while thus you do remain,</l>
+                  <l>Their ſeeming pleaſures always end in pain.</l>
+                  <l>A little tickling fills your Mind, and then</l>
+                  <l>Your former Sighs oppreſs your Heart agen.</l>
+                  <l>And though at my advice you always chafe,</l>
+                  <l>I know you cannot think that you are ſafe</l>
+                  <l>In their Protection, whatſo'ere you ſay,</l>
+                  <pb n="24" facs="tcp:95033:17"/>
+                  <l>You cannot find, nor hope, they will Obey.</l>
+                  <l>If you neglect, what to your Prince is due,</l>
+                  <l>How can you hope, Slaves ſhould prove true to you?</l>
+                  <l>Who 'gainſt his Prince rebels, betrays his Heart</l>
+                  <l>To every ſneaking Slave, that takes his part.</l>
+                  <l>And if our Prince ſends forth his armed Bands,</l>
+                  <l>You'l find them firſt betray you to their hands.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Pathus <hi>and</hi> Anoetus <hi>and draw.</hi>
+               </stage>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <p>Slave who has been ſo bold to looſe your Bands? <hi>To</hi> Idos.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>Hold your rude Weapons, 'twas at my Command.</p>
+               </sp>
+               <stage>Strikes down their Swords.</stage>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>Then Sir your Articles of Peace are broke,</l>
+                  <l>And for <hi>Amartans</hi> high diſpleaſure look. <stage>Angry.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>What? is <hi>Amartan</hi> greater grown than I?</p>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <p>You'l find it Sir unto your miſerie.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>Muſt then <hi>Amartan</hi> now become your Lord?</p>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <p>See Sir by this what help they will aford.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>'Tis I have freed him and to curb your pride.</l>
+                  <l>Without his help I can't the City guide.</l>
+                  <l>When this unto our Steward you diſcrie,</l>
+                  <l>And he demands who freed him, ſay 'twas I.</l>
+                  <l>You're fooliſh Traitors you had quite forgot,</l>
+                  <l>To keep your Treaſon cloſe I'le ſpoil the Plot. <stage>
+                        <hi>Exeunt.</hi> Car. Ido.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>Is it then come to this? are we ſo low</l>
+                  <l>That <hi>Idos</hi> muſt upon our ruine grow? <stage>Put up their Swords.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>Shall he triumphant ſtand while we do fall?</l>
+                  <l>Rather than I'le ſee that, I'le venture all.</l>
+               </sp>
+               <sp>
+                  <speaker>Pa.</speaker>
+                  <l>Though he by this thinks our deſign o'rethrown,</l>
+                  <l>We'll take his Life though we expoſe our own.</l>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>They that dare plot rebellion 'gainſt their King,</l>
+                  <l>Muſt never <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ck at any ſmaller thing.</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>
+                     <hi>Amartan</hi> eaſily poiſon can convey,</l>
+                  <l>Or lay a Train of Powder in his way</l>
+                  <l>To blow him up, let us conſult within,</l>
+                  <l>He that loves treaſon 'twil at laſt reach him. <stage>Exeunt.</stage>
+                  </l>
+               </sp>
+               <pb n="25" facs="tcp:95033:17"/>
+               <stage>
+                  <hi>Enter</hi> Lupa.</stage>
+               <sp>
+                  <speaker>Lu.</speaker>
+                  <l>Thus far I'm unreſiſted come to bring</l>
+                  <l>The laſt and fatal meſſage from our King.</l>
+                  <l>'Tis true no force can ſtop me but I find</l>
+                  <l>No armed Guards to any Gate deſign'd.</l>
+                  <l>All in confuſion, a regardleſs rout</l>
+                  <l>To fence a Citie, and keep danger out.</l>
+                  <l>How doth this fond ſecuritie, expoſe</l>
+                  <l>The Rebels to their Princes wrathful blows.</l>
+                  <l>To what poor ſtrength doth weak rebellion truſt.</l>
+                  <l>As though the Prince to puniſh were not juſt.</l>
+                  <l>They ſeek not Peace, nor ſeek to ward his blows,</l>
+                  <l>But to his Sword their naked Heads expoſe.</l>
+                  <l>'Twill not be long ere <hi>Cardian</hi> come this way,</l>
+                  <l>My Meſſage is to him, and here I'le ſtay. <stage>Stands by.</stage>
+                  </l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Cardian <hi>and</hi> Idos.</stage>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Let poor tame Fools weakly their power reſign</l>
+                  <l>To others, I'le by my own Glory Shine.</l>
+                  <l>Nor any ſtrength ſhall weigh my Power down,</l>
+                  <l>I'le make theſe Rebels know I rule the Town,</l>
+                  <l>And uſe their Service though the Prince do frown,</l>
+               </sp>
+               <stage>Lupa <hi>ſteps before him</hi>
+               </stage>
+               <sp>
+                  <speaker>Lu.</speaker>
+                  <p>I bring you Summons Sir, in th' grea Kings name.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>Summons to me Man? know'ſt thou who I am?</p>
+               </sp>
+               <sp>
+                  <speaker>Lu.</speaker>
+                  <p>Yes very well Sir, baſe <hi>Amartans</hi> Slave.</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>Muſt I be thus abuſ'd by a little Knave? <stage>Offers to draw.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>Hold Sir, he is the great Kings Meſſenger,</l>
+                  <l>Slighting the Servant provokes the Maſters Ire.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>Well what's your Meſſage?</p>
+               </sp>
+               <sp>
+                  <speaker>Lu.</speaker>
+                  <l>Sir this Command I bring</l>
+                  <l>You muſt Accounts prepare to give the King.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>What has the King to do with mine or me?</l>
+                  <l>Cannot I rule here, from his trouble free?</l>
+                  <pb n="26" facs="tcp:95033:18"/>
+                  <l>Let me have Peace, I do'nt moleſt his Throne,</l>
+                  <l>I muſt make War, if he diſturbs my own.</l>
+                  <l>I fear not all his Power, his dwellings far</l>
+               </sp>
+               <sp>
+                  <speaker>Lu.</speaker>
+                  <l>With this ſlight ſtroke, he thus begins the War,</l>
+                  <stage>Lupa <hi>lays his hands on</hi> Cardians <hi>Neck and he ſinks, bows down on his ſtick.</hi>
+                  </stage>
+                  <l>Look to it, Sir, ſince you your Prince defie</l>
+                  <l>And War proclame, he'l make you yeild or die.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>VVhat haſt thou done? I now want ſtreng to ſtand,</l>
+                  <l>My ſtrong Back bows under thy heavy hand:</l>
+               </sp>
+               <sp>
+                  <speaker>Id.</speaker>
+                  <l>He, but his hand upon your Neck did lay,</l>
+                  <l>You find your boaſted ſtrength did ſoon decay,</l>
+                  <l>And will or will not now you muſt Obey.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>But I will ſhake it off; <hi>Amartans</hi> Company <stage>Strive to ſtand upright but can't. Calls aloud.</stage>
+                  </l>
+                  <l>Shall free me from this ſeeming Miſery</l>
+                  <l>Ha! <hi>Pathus</hi> and <hi>Anoetus</hi> bring here</l>
+                  <l>
+                     <hi>Amartan</hi> ſtraight, my drooping Mind to chear.</l>
+                  <l>Tell him he muſt my failing ſtrength reſtore,</l>
+                  <l>And ſet me upright as I ſtood before.</l>
+               </sp>
+               <sp>
+                  <speaker>Id.</speaker>
+                  <l>You call to them in vain, I'm ſure 'twas they</l>
+                  <l>That left you Cuaroleſs, and to this betraie.</l>
+                  <l>Since firſt you them unto your Boſom took,</l>
+                  <l>They have prepar'd for you this fatal ſtroke.</l>
+               </sp>
+               <sp>
+                  <speaker>Lu.</speaker>
+                  <l>'Twas they indeed that open'd me the way,</l>
+                  <l>And to your Princes fury you betraie</l>
+                  <l>They make you firſt offend, and then accuſe,</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>And now I can't at all their ſuccour uſe. <stage>Lays his hand on his Breaſt.</stage>
+                  </l>
+                  <l>This Heart of Steel that no Impreſſion felt</l>
+                  <l>From him whoſe Word the Stonie Mountains melt,</l>
+                  <l>Drops down like melting Wax, at this ſlight blow.</l>
+                  <l>Thou doſt the Art of Magick uſe I know,</l>
+                  <l>What makes thee come thus to torment me now?</l>
+               </sp>
+               <sp>
+                  <speaker>Lu.</speaker>
+                  <l>Sir, 'tis not I torment, thoſe you allow</l>
+                  <l>As greateſt Favourtes gave you this Wound,</l>
+                  <l>And 'twas their Magick, that has kept you bound</l>
+                  <l>In Shades of Niht: benum'd you could not feel</l>
+                  <l>Thoſe Wounds you had from their envenom'd Steel.</l>
+                  <pb n="27" facs="tcp:95033:18"/>
+                  <l>
+                     <hi>Amaatan</hi> poiſon'd for them: I'm your Friend.</l>
+                  <l>Your Prince has ſent this Summons to the end</l>
+                  <l>You might diſcover their baſe treachery;</l>
+                  <l>Then will you loath them, and rejoice in me.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>My Lord I'le lead you to the hollow Vail, <stage>Takes him by the Arm</stage>
+                  </l>
+                  <l>To our renowned famous Oracle.</l>
+                  <l>To which, when you your preſſing grief diſcloſe,</l>
+                  <l>That gives you comfort, and your Cure ſhows.</l>
+               </sp>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <p>Pray will you ſtaie behind, <stage>
+                        <hi>To</hi> Lupa.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lup.</speaker>
+                  <l>No Sir, I'le go,</l>
+                  <l>Do not you think that I'le be ſhook off ſo,</l>
+                  <l>But as your Shade will follow you to bring</l>
+                  <l>You back to Loyaltie unto your King.</l>
+                  <l>But if from him you ſtill reſolve to part,</l>
+                  <l>From him I've power ever to vex your Heart.</l>
+               </sp>
+               <stage>
+                  <hi>Exeunt</hi> Cardian <hi>led of by</hi> Idos,</stage>
+               <stage>
+                  <hi>Enter</hi> Pathus Anoetns.</stage>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>So now, he's pay'd, when his ſtrength's almoſt ſpent,</l>
+                  <l>He'll ſeek our help, to baniſh diſcontent.</l>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>We'll let him come, we'll entertain him ſtill,</l>
+                  <l>Till with our pleaſures we his Heart do kill.</l>
+               </sp>
+               <sp>
+                  <speaker>Pa.</speaker>
+                  <l>But if he <hi>Lupa</hi> entertain, we muſt</l>
+                  <l>Look to our ſelves, not in his Favour truſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>Let with <hi>Amartan</hi> all your force be join'd,</l>
+                  <l>That be may not the blows of <hi>Lupa</hi> mind.</l>
+                  <l>He us diſcovers: And if regarded will</l>
+                  <l>
+                     <hi>Sunidos</hi> free: and arm him us to kill. <stage>Exeunt.</stage>
+                  </l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Cardian, Idos, Lupa, <hi>and go on to the end of the Stage.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>This is the place my Lord, if you unfold</l>
+                  <l>Your preſſing grief, the Cure ſhall ſoon be told:</l>
+               </sp>
+               <pb n="28" facs="tcp:95033:19"/>
+               <stage>
+                  <hi>The Eccho is Acted within by</hi> Sunidos <hi>and</hi> Kerux: <hi>the laſt taking only the laſt Sylable, as a double Eccho.</hi>
+               </stage>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>Under the preſſure of ſtrong grief I bow.</p>
+               </sp>
+               <sp>
+                  <speaker>Eccho</speaker>
+                  <p>I know—know</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>What power can teach me to eſcape from this?</p>
+               </sp>
+               <sp>
+                  <speaker>Eccho</speaker>
+                  <p>This—his</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>The help of him that now comes from my Prince?</p>
+               </sp>
+               <sp>
+                  <speaker>Eccho</speaker>
+                  <p>Thy Prince—Prince?</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>My Prince that ſent it muſt I truſt him then?</p>
+               </sp>
+               <sp>
+                  <speaker>Eccho</speaker>
+                  <p>Truſt agen—agen</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>How dare I truſt him, who I've thus disgrac't?</p>
+               </sp>
+               <sp>
+                  <speaker>Eccho</speaker>
+                  <p>Thou maieſt—maieſt</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>How ſhall I then my Princes Favour find?</p>
+               </sp>
+               <sp>
+                  <speaker>Eccho</speaker>
+                  <p>Kind—kind</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>Thou bableſt <hi>Eccho</hi> I dare not believe.</p>
+               </sp>
+               <sp>
+                  <speaker>Eccho</speaker>
+                  <p>Believe—lieve</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>Can I believe when thus he does torment?</p>
+               </sp>
+               <sp>
+                  <speaker>Eccho</speaker>
+                  <p>Therefore ſent—ſent</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>But then I muſt let forth <hi>Sunidos</hi> free?</p>
+               </sp>
+               <sp>
+                  <speaker>Eccho</speaker>
+                  <p>
+                     <hi>Sunidos</hi> free—free</p>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>This is no <hi>Eccho</hi> but <hi>Sunidos</hi> Tongue.</p>
+               </sp>
+               <sp>
+                  <speaker>Suni. within.</speaker>
+                  <l>'Tis true Sir, but I tell you nothing wrong,</l>
+                  <l>To Councel then to councel ſtraight,</l>
+                  <l>'Tis the laſt turning of the fate,</l>
+                  <l>If you this Meſſenger refuſe,</l>
+                  <l>The King will not another uſe,</l>
+                  <l>Or ſhould you flatter him away,</l>
+                  <l>And in your former courſes ſtray,</l>
+                  <l>His angry Army then muſt take their turn,</l>
+                  <l>The Town conſum'd, you in its flames muſt burn.</l>
+               </sp>
+               <sp>
+                  <speaker>Car,</speaker>
+                  <l>I now begin to fear all this is true,</l>
+                  <l>And to all comfors I muſt bid adue. <stage>Excunt,</stage>
+                  </l>
+               </sp>
+               <trailer>End of the Forth Act,</trailer>
+            </div>
+            <div type="interlude">
+               <pb n="29" facs="tcp:95033:19"/>
+               <head>INTERMASKE</head>
+               <stage>Interpres <hi>and</hi> Scrutator <hi>Meet, Bow, and walk on,</hi> &amp;c.</stage>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>SIr, this oblieging favour you beſtow,</l>
+                  <l>Binds me with all reſpect my thanks to ſhow, <stage>Bows.</stage>
+                  </l>
+                  <l>I have obſerv'd each paſſage of each Scene,</l>
+                  <l>But underfland not clearly what all mean.</l>
+                  <l>Muſt beg your help to teach me once again.</l>
+                  <l>Why in Security doth he complain?</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>The Heart of Man's not ſatisfi'd with Sin,</l>
+                  <l>Though as one ends another does begin.</l>
+                  <l>For though in acts of Sin the Heart ſeems glad,</l>
+                  <l>Yet in and after 'tis in ſecret ſad.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>What means their ſecret councel that 'tis unknown</l>
+                  <l>To him what is a doing till 'tis done.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>The Heart habituate to Sin, ſtill goes</l>
+                  <l>So blindly on he ſins before he knows.</l>
+                  <l>And therefore willing to have knowledg free.</l>
+                  <l>For without that his way he cannot ſee</l>
+                  <l>In worldly things, and therefore would confine</l>
+                  <l>Knowledg, to them alone: nothing Divine</l>
+                  <l>Cares he to hear: But Knowledg can't forbear.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>But while that Conſcience under reſtraint doth ſtay,</l>
+                  <l>The words of Knowledg are but caſt away.</l>
+                  <l>But yet his League of Peace is broke with Sin,</l>
+                  <l>By that he's ſeeming to return agen,</l>
+                  <l>Yet moves but ſlowly.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Some ſpark of grace may be remaining ſtill,</l>
+                  <l>Though 'tis ſo ſmall 'tis hardly viſible,</l>
+                  <l>But as a Man by dreadful lightning ſhot,</l>
+                  <l>Has ſtill ſome Life, although he knows it not.</l>
+               </sp>
+               <pb n="30" facs="tcp:95033:20"/>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>But who's this new come Meſſenger, that now</l>
+                  <l>With one ſmall ſtroke makes all his ſtrength to bow,</l>
+                  <l>Who ſtrongeſt Guards could not keep out, yet he</l>
+                  <l>Says he had entrance, by their Treachery.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>This <hi>Lupa</hi> is Affliction, which doth ſhake</l>
+                  <l>The ſtrongeſt earthly Heart, unfit to make</l>
+                  <l>A good Account before the King of Kings.</l>
+                  <l>This to remembrance calls the forepaſt Sins,</l>
+                  <l>They bring Affliction, from Sin it firſt began</l>
+                  <l>Affliction ſhows how weak's the ſtrongeſt Man</l>
+                  <l>Sin lets Affliction in, Sid can't withſtand</l>
+                  <l>When the moſt high by that lays on his hand.</l>
+                  <l>The Worl's too weak to keep Affliction out,</l>
+                  <l>Though fenc'd with worldly comforts round about</l>
+                  <l>'Twill find a paſſage to the Heart.</l>
+                  <l>And though he threatens help of Sin to ſeek,</l>
+                  <l>That cannot help, but all its power's too weak.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>But yet the wicked Heart is loath to ſee</l>
+                  <l>The hand that does inflict this Miſerie.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>So Man forgets from whence affliction's ſent</l>
+                  <l>To Chance or Magick aſcribes puniſhment.</l>
+               </sp>
+               <sp>
+                  <speaker>Seru.</speaker>
+                  <l>Yet <hi>Luta</hi> tells that he doth bring no ill,</l>
+                  <l>But only whence his evils come doth tell.</l>
+               </sp>
+               <sp>
+                  <speaker>In.</speaker>
+                  <l>'Tis Sin that wounds: Affliction doth but ſnow</l>
+                  <l>The wounds of Sin, that make the Heart thus bow.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <p>What means the bringing to the hollow Vail</p>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Conſcience and Truth ſpeak in the Oracle,</l>
+                  <l>Sorrows to ſilent cogitations lead</l>
+                  <l>Seeking retirement, or the afflicted bed.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>Conſcience here ſays, this Meſſage is the laſt,</l>
+                  <l>'Tis favour too, if ſcorn'd his ruine haſts.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Chaſtizing warnings find nor every one,</l>
+                  <l>Some are cut off by ſwift deſtruction.</l>
+                  <l>And ſwift deſtruction; always does await</l>
+                  <l>Such as do ſcorn reproof, and dare their fate,</l>
+                  <l>By fond delaies.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>—Sir I have been to hold,</l>
+                  <l>You by impertinence thus long too hold,</l>
+               </sp>
+               <pb n="31" facs="tcp:95033:20"/>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>If theſe but pardon, and are ſatisfi'd, <stage>To the Preſence</stage>
+                  </l>
+                  <l>I ſhall incourage you rather than chide</l>
+                  <l>Now view the end, and, and ſee how dreadful fear</l>
+                  <l>Purſues the trembling Heart, in black diſpair.</l>
+               </sp>
+            </div>
+            <div n="5" type="act">
+               <head>ACT. V.</head>
+               <stage>Curtains drawn.</stage>
+               <stage>Cardian <hi>diſcovered ſitting in his Chair as melancholly,</hi> Lupa, Anoetus, <hi>and</hi> Pathus <hi>attending him, after a pauſe he ſtarts up in a rage, Curtains ſhut.</hi>
+               </stage>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>AMartan! O tame eaſy Fool that I <stage>ragingly ſtrikes his Breaſt.</stage>
+                  </l>
+                  <l>Should ever truſt my deadly Enemy.</l>
+                  <l>His fatal Poiſon reaches every part,</l>
+                  <l>And with whole Legions now aſſaults my Heart. <stage>Lays hand on Breaſt.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <p>This is the kindneſs of your friendly King.</p>
+               </sp>
+               <sp>
+                  <speaker>Lu.</speaker>
+                  <p>'Tis love to ſhow the State you've brought him in,</p>
+               </sp>
+               <sp>
+                  <speaker>Pa.</speaker>
+                  <p>Can this be love to vex him thus with grief,</p>
+               </sp>
+               <sp>
+                  <speaker>Lu.</speaker>
+                  <p>You vex, his Prince calls him to ſeek relief.</p>
+               </sp>
+               <sp>
+                  <speaker>Car,</speaker>
+                  <l>
+                     <hi>A martan</hi> that vile Slave has poiſon'd me,</l>
+                  <l>I fear it too was by your treacherie: <stage>
+                        <hi>To</hi> Anoetus <hi>and</hi> Pathus.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>What ours my Lord? chear up we hope to ſee</l>
+                  <l>You merry once again, from this ſtroke free.</l>
+               </sp>
+               <sp>
+                  <speaker>Pa,</speaker>
+                  <l>Shake that attendant off, your Prince forget <stage>
+                        <hi>Points to</hi> Lu,</stage>
+                  </l>
+                  <l>And there's no doubt you may be merry yet.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Flatter nor tempt no more, I know you now:</l>
+                  <l>Your falſhood 'twas that makes me weak and low.</l>
+                  <l>I for <hi>Sunidos</hi> to the Priſon ſent,</l>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>His coming Sir, will give you ſmall content,</l>
+                  <l>Inſtead of comfort he'l your torment be.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>I fear his coming won't much comfort me.</l>
+                  <pb n="32" facs="tcp:95033:21"/>
+                  <l>But he that feels the pains that I endure,</l>
+                  <l>Will ask of all he may to find a Cure.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Sunidos, <hi>lead in by</hi> Idos.</stage>
+               <lg>
+                  <l>See where he comes, who I ſo long did ſlight,</l>
+                  <l>And now his very Preſence does affright. <stage>Turns away.</stage>
+                  </l>
+                  <l>Though he's my Servant, I did ſo diſgrace</l>
+                  <l>His faithful love, I ſcarce dare ſee his Face.</l>
+               </lg>
+               <stage>Anoctus <hi>and</hi> Pathus <hi>run behind the Curtain.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>What? do you hide your Heads? 'tis time to go,</l>
+                  <l>That have you Maſter thus betray'd to woe.</l>
+               </sp>
+               <sp>
+                  <speaker>Lu.</speaker>
+                  <l>'Tis time to go and fit you were confin'd,</l>
+                  <l>That were moſt cruel, when you ſeem'd moſt kind.</l>
+               </sp>
+               <sp>
+                  <speaker>Sunid.</speaker>
+                  <l>Sir you have ſent for me, but I'm ſo weak</l>
+                  <l>By Wounds and Priſon, I can ſcarcely ſpeak.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>'Twas I that gave thoſe Wounds, and now I feel</l>
+                  <l>My ſelf am toucht by the envenom'd Steel.</l>
+                  <l>O how I reel and totter, that once though <stage>Staggers.</stage>
+                  </l>
+                  <l>My ſtrength too great to be to weakneſs brought.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>Had you our councel taken, none of this</l>
+                  <l>Had ever come to interrupt your bliſs.</l>
+                  <l>But now your Friends are weak, your ſtrength ſurpriz'd,</l>
+                  <l>By Rebels ſiding with your Enemies,</l>
+               </sp>
+               <sp>
+                  <speaker>Su.</speaker>
+                  <l>Your Prince provok'd by your rebellion</l>
+                  <l>To your deſtruction ſwiftly haſtens on.</l>
+                  <l>Your ſelf grown weak, you cannor now oppoſe</l>
+                  <l>Your Princes ſtrength, nor comfort find in thoſe</l>
+                  <l>You entertain'd as Friends, and truſted to,</l>
+                  <l>'Tis their infectious Wounds that ruine you.</l>
+               </sp>
+               <sp>
+                  <speaker>Id.</speaker>
+                  <p>O! whether can you turn to ſeek for aid?</p>
+               </sp>
+               <sp>
+                  <speaker>Lu.</speaker>
+                  <l>Or where indeed can any help be had?</l>
+                  <l>Your Prince provok'd abroad, your Friends at home</l>
+                  <l>Put out of Power, thoſe you have truſted come</l>
+                  <l>To work your ruine, and now too late you find,</l>
+                  <l>You're wounded both in Body State and Mind,</l>
+               </sp>
+               <pb n="33" facs="tcp:95033:21"/>
+               <sp>
+                  <speaker>Sunid.</speaker>
+                  <l>But if you had but heard our Councels call</l>
+                  <l>You'd ſtood in Tryumph, now in ruine fall.</l>
+               </sp>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <l>Enough, Enough of this, forbear, no more,</l>
+                  <l>This is no eaſe, but torment to my ſore.</l>
+                  <l>What Councellors did I negiect and ſcorn?</l>
+                  <l>My Heart now trembles and my Fleſh does mourn.</l>
+               </sp>
+               <sp>
+                  <speaker>Su.</speaker>
+                  <l>To think what Prince, and Friends you have forſook,</l>
+                  <l>What Poiſonous Vipers, to your Breaſt you took.</l>
+                  <l>Whoſe venom'd bites you ſhall forever feel,</l>
+                  <l>Bound in your Princes Chains of flaming Steel.</l>
+                  <l>Which juſtly you deſerv'd, that ſlighted ſo</l>
+                  <l>His often warnings, and would to ruine go.</l>
+                  <l>Join'd with his Foes, and ſo your ſelf betray'd,</l>
+                  <l>The Town you had to govern Slaves are made</l>
+                  <l>By your deceit, thinking to cheat your King,</l>
+                  <l>Unto your ſelf you do this ruine bring.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>His favour's loſt that promis'd you a Crown,</l>
+                  <l>And now you muſt appear before his frown,</l>
+                  <l>'Twill not be long before he takes the Town.</l>
+               </sp>
+               <sp>
+                  <speaker>Lupa.</speaker>
+                  <p>Yet ſeek to win his Favour once again:</p>
+               </sp>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <l>No that's too late, would I could eaſe this pain,</l>
+                  <l>His Favour's gone for ever: Now I find,</l>
+                  <l>I've ſo provok'd him, he'l no more be kind.</l>
+               </sp>
+               <sp>
+                  <speaker>Su.</speaker>
+                  <l>Yet try him once again you do not know</l>
+                  <l>But he may have compaſſion on your woe.</l>
+               </sp>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <l>O would I could but cure <hi>Amartans</hi> Wound,</l>
+                  <l>And once again exclude him from my Ground.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>Send Sir, and find out <hi>Kerux,</hi> He's your Friend,</l>
+                  <l>I'm confident he will affiſtance lend,</l>
+                  <l>To reconcile your Prince, and make your Peace,</l>
+                  <l>Caſt out your Foes, and cure your Wounds with eaſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <l>No, No, 'tis all too late my time is gone</l>
+                  <l>I dare not now approach my Princes Throne.</l>
+                  <l>Too iate for Peace, his Army's marching round,</l>
+                  <l>Methinks I hear his Drums, and Trumpets ſound.</l>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>You have but left this only remedy,</l>
+                  <l>To draw your Sword, and be at pains to Dye.</l>
+               </sp>
+               <pb n="34" facs="tcp:95033:22"/>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <l>'Tis all I have to truſt to this relief,</l>
+                  <l>'Tis Death alone can cure all my grief.</l>
+               </sp>
+               <stage>
+                  <hi>Draws, ſets the Hilt to the Ground, point to his Breaſt, prepares to fall on his Sword.</hi> Suni. <hi>ſtarts out and holds him</hi>
+               </stage>
+               <sp>
+                  <speaker>Suni.</speaker>
+                  <l>Hold Sir, Though weak my ſtrength's not ſo much ſpent,</l>
+                  <l>But love makes ſtrong, your ruine to prevent.</l>
+                  <l>If thus you Wound your ſelf you'l find too late,</l>
+                  <l>Death is not half the eaſing of your fate.</l>
+                  <l>This will far more the Kings diſpleaſure move,</l>
+                  <l>Then all you yet have done to forfeit's love.</l>
+                  <l>How kind he yet may prove you do not know,</l>
+                  <l>Throw not away his kindneſs at one blow.</l>
+                  <l>If you do live his love may reinſtate,</l>
+                  <l>If thus you dye you'l ſure provoke his hate, <stage>Idos <hi>and</hi> Lupa <hi>whiſpers</hi>
+                     </stage>
+                  </l>
+                  <l>Living, at worſt you but his favour doubt,</l>
+                  <l>But dying thus you ſhut all favour out.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <p>Muſt I then live—<hi>taking up his Sworde</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sunid.</speaker>
+                  <l>Your Prince will have it ſo,</l>
+                  <l>You muſt your life unto his Favour owe.</l>
+               </sp>
+               <sp>
+                  <speaker>Lu.</speaker>
+                  <p>I'm ſure he's there and I'm as ſure he'l come. <hi>To</hi> Idos.</p>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <p>No way but that now to prevent his doom. <stage>
+                        <hi>Exit.</hi> Idos.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Anoe.</speaker>
+                  <l>They're ſending Sir, for <hi>Kerux,</hi> why ſhould you,</l>
+                  <l>Expoſe your ſelf in torments to his view.</l>
+                  <l>You need him not as yet, ſtay but one day,</l>
+                  <l>What harm can be in ſuch a ſhort delay,</l>
+               </sp>
+               <sp>
+                  <speaker>Snnid.</speaker>
+                  <l>Villain no more he now diſcerns your ſpite</l>
+                  <l>Would lead him to the ſhades of everlaſting Night.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi>-Kerux <hi>and</hi> Idos.</stage>
+               <sp>
+                  <speaker>Kerux.</speaker>
+                  <l>How now Sir? do you find my words were true?</l>
+                  <l>Theſe are the dangers I foretold to you.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Too true I find what I would not believe.</l>
+                  <l>But can you in ſuch Dangers comfort give?</l>
+                  <l>Tormenting pains do all my bowels fill,</l>
+                  <l>Which baffle all Phyſitians and their skill.</l>
+                  <pb n="35" facs="tcp:95033:22"/>
+                  <l>Chirurgions may a wounded Body rear, <stage>Points to his Breaſt.</stage>
+                  </l>
+                  <l>This Poiſon wounds my heart, and who can bear.</l>
+                  <l>And in this ſtate my King is coming on,</l>
+                  <l>To puniſh me for my rebellion.</l>
+                  <l>Truſting, againſt my ſelf, my Poes and his,</l>
+                  <l>O who can any comfort give to this?</l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>I muſt confeſs you have great cauſe to fear,</l>
+                  <l>Joyning with Rebels, and the Kings Army near.</l>
+                  <l>And thoſe you truſted now you find your Foes,</l>
+                  <l>Who would your Head to the Kings Sword expoſe.</l>
+                  <l>Yet, if you willing are from thoſe to flie,</l>
+                  <l>And truſt your ſelf to the Kings Clemency:</l>
+                  <l>I doubt not but ſome remedy to find.</l>
+               </sp>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <p>O do not flatter my deluded Mind.</p>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>If to your Loyaltie you will return,</l>
+                  <l>I'le make your Enemies, your dangers mourn.</l>
+                  <l>If <hi>Idos</hi> and <hi>Sunidos</hi> you reſtore,</l>
+                  <l>Unto thoſe Offices they held before;</l>
+                  <l>Exclude your Slaves from Power, and drive away</l>
+                  <l>
+                     <hi>Amartan</hi> and his Troops who you betray.</l>
+                  <l>And ſend a true ſubmiſſion to the King,</l>
+                  <l>I'le undertake I will your Pardon bring.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>But how ſhall I now make them quit the Town?</l>
+                  <l>They've poiſon'd me and all my ſtrength put down.</l>
+                  <l>
+                     <hi>Amartans</hi> Guards poſſeſſeth every Fort,</l>
+                  <l>And make my loſs and danger all their ſport.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>Give me commiſſion I'le ſuch force convey</l>
+                  <l>Into the Town, ſhall drive the Foes away.</l>
+               </sp>
+               <sp>
+                  <speaker>Suni.</speaker>
+                  <l>The Princes Banner on the Walls diſcrie,</l>
+                  <l>They dare not ſtay but preſently will flie.</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>But though all this be done and they ſhould go,</l>
+                  <l>My paſt rebellion makes my King my Foe.</l>
+               </sp>
+               <sp>
+                  <speaker>Ke.</speaker>
+                  <l>Come doubt no more, but chear your drooping mind,</l>
+                  <l>I do aſſure you your Pardon's ſign'd.</l>
+                  <l>You had a Friend, you thought not on, at Court,</l>
+                  <l>The Kings own Son ſpoke to his Father for't.</l>
+                  <l>And now his powerful Army this way bends,</l>
+                  <l>To worſt your Foes, and to defend your Friends.</l>
+               </sp>
+               <pb n="36" facs="tcp:95033:23"/>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>But Sir, thoſe poiſonous wounds I yet do fear,</l>
+                  <l>Till cure, of them I dare not to appear.</l>
+                  <l>Before my King.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>To heal them, nothing's good,</l>
+                  <l>But the vile Poiſners Death, and Conquerers Blood.</l>
+                  <l>He's like a Scorpion, whoſe Sting being bruis'd,</l>
+                  <l>Cures the Venome, that his Sting infus'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>That I'le obtain: That Valiant Champion,</l>
+                  <l>Your beſt of Friends, and our Kings only Son,</l>
+                  <l>In Combat hath this Foe <hi>Amartan</hi> found,</l>
+                  <l>And given him, in Fight, a mortal Wound.</l>
+                  <l>The Blood he ſhed, to gain that Victorie,</l>
+                  <l>To work your Cure, I'le to your Wound applie.</l>
+               </sp>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <l>Methinks this news to me new Life returns,</l>
+                  <l>Unutterable Joy in my Heart burns.</l>
+                  <l>Welcome dear <hi>Lupa,</hi> if thou hadſt not come</l>
+                  <l>I poiſon'd might have dropt into my Tomb</l>
+                  <l>And died unpitied, hated by my King:</l>
+                  <l>Thou cam'ſt and dawnings of new Life didſt bring. <stage>
+                        <hi>To</hi> Id. <hi>and</hi> Sunidos.</stage>
+                  </l>
+                  <l>Your Pardon deareſt Friends <hi>Cardian</hi> craves,</l>
+                  <l>I will no more abuſe you as my Slaves.</l>
+                  <l>But you dear <hi>Kenux,</hi> have ſuch favour ſhown,</l>
+                  <l>That all my thanks ſeem due to you alone.</l>
+                  <l>My Hearts too narrow this ſwelling Joy to hold,</l>
+                  <l>My Tongue would tire to ſpeak't, all can't be told.</l>
+                  <l>Now to your guidance I my ſelf reſign,</l>
+                  <l>And hope by my Kings love again to ſhine.</l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>Sir, thank not us, it is your Kings free love,</l>
+                  <l>We as his Agents, in our places move.</l>
+               </sp>
+               <sp>
+                  <speaker>Car</speaker>
+                  <l>For you my Slaves, to you will I be Juſt, <stage>
+                        <hi>To</hi> Anoetus <hi>and</hi> Pathus.</stage>
+                  </l>
+                  <l>And ſee you pai'd, for your abuſed truſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>Come Sir let's go, and all this work compleat,</l>
+                  <l>In honour reinſtate you in your Seat.</l>
+                  <l>Guard and diſarm thoſe Slaves, that they no more <stage>
+                        <hi>To</hi> Lupa.</stage>
+                  </l>
+                  <l>May hope to riſe, and trouble, as before. <stage>
+                        <hi>Diſarms</hi> Anoetus <hi>and</hi> Pathus.</stage>
+                  </l>
+                  <l>Thus the great power, that ruleth in the Skies,</l>
+                  <l>Subdues the Baſe, and makes the Worthy riſe. <stage>Exeunt.</stage>
+                  </l>
+               </sp>
+               <trailer>The End of the Fifth Act.</trailer>
+            </div>
+            <div type="interlude">
+               <pb n="37" facs="tcp:95033:23"/>
+               <head>INTERMASKE</head>
+               <stage>Interpres <hi>and</hi> Scrutator <hi>meet, Bow, and Walk on,</hi> &amp;c.</stage>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>COme Sir I've almoſt done, what think you now</l>
+                  <l>O'th 'Hearts ſharp torment? and the bitter woe?</l>
+                  <l>Senſible of a Sin polluted State,</l>
+                  <l>From the moſt high juſtly deſerving hate.</l>
+               </sp>
+               <sp>
+                  <speaker>Scrut.</speaker>
+                  <l>This dreadful Scene ſo diſcompos'd my Mind,</l>
+                  <l>That I can ſcarcely yet it ſetled find</l>
+                  <l>Yet by the ſweetning and refreſhing cloſe,</l>
+                  <l>In Sympatizing Joies my fancie flows:</l>
+                  <l>Here I obſerve, that <hi>Lupa</hi> ſtill doth ſtay,</l>
+                  <l>By force nor flatterie will he away.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>When once Affliction hath ſeis'd the Heart,</l>
+                  <l>By the Divine Command, 'twill never part,</l>
+                  <l>Either it will to reformation bring,</l>
+                  <l>Or ſet a point upon the Conſcience ſting.</l>
+                  <l>The Sparks of torments fire with it bears,</l>
+                  <l>Which are not quencht but by repentant rears.</l>
+               </sp>
+               <sp>
+                  <speaker>Scrut.</speaker>
+                  <l>What means <hi>Cardian</hi>'s fierce complaint and rage?</l>
+                  <l>Which all their comforts hardly can aſſwage.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>That ſhows the Hearts ſad State, and dreadful fear,</l>
+                  <l>Poiſon'd with Sin when Death and Judgment's near,</l>
+                  <l>Where now unreconcil'd it muſt appear.</l>
+                  <l>The ſence of Sin raiſes that thick black Cloud</l>
+                  <l>Where ſlighted Mercie Comforts Face doth ſhrowd.</l>
+               </sp>
+               <sp>
+                  <speaker>Scrut.</speaker>
+                  <l>And yet thoſe Slaves are interpoſing ſtill,</l>
+                  <l>What falſe hope flatters in the midſt of ill.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Folly and Luſt Repentance do oppoſe,</l>
+                  <l>But ſharp Affliction ſhuts the Mouth of thoſe.</l>
+               </sp>
+               <pb n="38" facs="tcp:95033:24"/>
+               <sp>
+                  <speaker>Scrut.</speaker>
+                  <l>His faithful Councellors add to his grief,</l>
+                  <l>To aggravate his crimes is ſmall relief.</l>
+                  <l>
+                     <hi>Sunidos</hi> weak to help doth grief inflame,</l>
+                  <l>
+                     <hi>Idos</hi> no comfort gives but ſhows his ſhame,</l>
+                  <l>Neglecting Councels in his Princes name,</l>
+                  <l>Threatens his frowns, and ſudden laſting blame:</l>
+                  <l>Adviſing him ſo weakly yet to move,</l>
+                  <l>Again to ſeek his angry Princes love,</l>
+                  <l>That Folly ſoon perſwades to end that ſtrife,</l>
+                  <l>To cut off fear and trouble with his life.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>So Knowledg of offence: Conſcience of Sin,</l>
+                  <l>When by Affliction, they are both call'd in,</l>
+                  <l>Do ſet the Soul on rack; ſmall comfort give,</l>
+                  <l>The Heart doth rather chuſe to die than live</l>
+                  <l>In deep diſpair.</l>
+                  <l>Conſcience, though weak, ſtops the too forward hand,</l>
+                  <l>And puts that reſolution to a ſtand;</l>
+                  <l>Showing, though he in danger was before,</l>
+                  <l>That this new Sin will make his danger more,</l>
+                  <l>Death's not the way a Sin ſick Soul to cure,</l>
+                  <l>Nor ends Sins grief, which ever will endure,</l>
+                  <l>Such a diſpairing ſtroke will make Damnation ſure.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>But the Ambaſſadour now comes again,</l>
+                  <l>Offering him to free him from all pain.</l>
+                  <l>Promiſes help, Pardon, and Princes love,</l>
+                  <l>His Foes from their uſurped Power to move,</l>
+                  <l>If he but willing be, clears every doubt,</l>
+                  <l>Only unwillingneſs can keep comfort out.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>See here, the charming ſweets of love Divine,</l>
+                  <l>Which in the ſacred Oracles do ſhine.</l>
+                  <l>Affliction teaches Knowledge them to ſeek,</l>
+                  <l>Which heal the ſick in Soul, confirm the weak,</l>
+                  <l>Only unwillingneſs, or unbelief,</l>
+                  <l>Chain up the doubting Soul in drooping grief.</l>
+                  <l>Faith breaks thoſe bands, makes willing to return</l>
+                  <l>And new inliv'ning flames of Joy do burn.</l>
+                  <l>Renews obedience to the great Kings will,</l>
+                  <l>That arms his hands his Luſt and Sins to kill.</l>
+               </sp>
+               <pb n="39" facs="tcp:95033:24"/>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>And thus reſtor'd to hope his thanks are paid</l>
+                  <l>To thoſe that, for him real kindneſs had;</l>
+                  <l>
+                     <hi>Lupa</hi> himſelf who firſt did make him bow,</l>
+                  <l>Finds grateful kindneſs is return'd him now.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>The Heart being thus renew'd, in Peace and calm,</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inds that Affliction brought not wounds but balm,</l>
+                  <l>A remedie againſt Sins ſharpeſt ill,</l>
+                  <l>Now taught thereby Gods precepts to fulfil.</l>
+                  <l>Conſcience, and Knowledg, as beſt Friends he chears,</l>
+                  <l>Taught to ſeek ſaferie by their real fears,</l>
+                  <l>But the ſweet word, of promiſes Divine,</l>
+                  <l>Doth above all with greateſt Luſtre ſhine;</l>
+                  <l>And juſtly challenges his greateſt love:</l>
+                  <l>By that new life his Sin dead Soul did move.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>I thank you Sir, you have perform'd your task,</l>
+                  <l>There now remains no doubt for me to ask.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>But now I doubt, but not of you, but theſe, <stage>Points to the Preſence.</stage>
+                  </l>
+                  <l>Whether theſe empty toys them can pleaſe</l>
+                  <l>Your Pardon 'tis I beg, and patient Ear,</l>
+                  <l>The Joyes of the renewed Heart to hear.</l>
+               </sp>
+               <stage>Curtains drawn within is diſcovered,</stage>
+               <stage>Cardian, <hi>Crowned with Bayes, encompaſſed by</hi> Kerux, Idos, <hi>and</hi> Sunidos, <hi>who joyn Hands, and hold drawn Swords in their right hands upright, by them kneel</hi> Anoetus <hi>and</hi> Pathus, <hi>their hands bound behind, and</hi> Lupa <hi>ſtanding behind, holds a drawn Sword over their Heads,</hi> Interpres <hi>with</hi> Scrutator <hi>ſtanding at the lower end of the Stage, thus deſcribes it:</hi>
+               </stage>
+               <sp>
+                  <speaker>Inter. Scrutator,</speaker>
+                  <l>there a double Emblem ſees,</l>
+                  <l>The Heart triumphant: and ſafety of Peace.</l>
+               </sp>
+               <sp>
+                  <speaker>Seru.</speaker>
+                  <l>Methinks my Eye diſcovers, as it ſtands,</l>
+                  <l>When faithful Councellors with joyned hands</l>
+                  <l>Encompaſs in the Govern our a round,</l>
+                  <l>In Peace, and ſafetie by their hands he's crown'd.</l>
+                  <l>The Rebels, there to good behaviour ty'd, <stage>
+                        <hi>Points to</hi> Anoetus <hi>and</hi> Pathus.</stage>
+                  </l>
+                  <l>Peace, and Protection, guards every ſide,</l>
+               </sp>
+               <pb n="40" facs="tcp:95033:25"/>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Sir, For the outſide, thus you judg aright,</l>
+                  <l>While concords bands Governours Hearts unite,</l>
+                  <l>Truth, Wiſdom, Knowledg, in thoſe three are ſpoke;</l>
+                  <l>That threefold Cord cannot be eaſily broke:</l>
+                  <l>Where ever theſe together live in Peace,</l>
+                  <l>There flouriſhes Proſperity, and Eaſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>Now, let my Mind beguided by mine Eye,</l>
+                  <l>To taſte the ſweets of the Moralitie.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Conſcience and Knowledge, do united join,</l>
+                  <l>Guided, and ſtrengthned, by the Word Divine,</l>
+                  <l>The Heart's at peace, and ſafe: Corruptions bound,</l>
+                  <l>Broke by Affliction, chain'd unto the ground,</l>
+                  <l>No more ariſe to rule.— <stage>
+                        <hi>Points to</hi> Anoetus <hi>and</hi> Pathus.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>Thus then, thoſe that would live before they die,</l>
+                  <l>Muſt Fleſh ſubdue and dear Luſts mortifie.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Now leave the Fable, and the Moral taſt, <stage>To the Preſence.</stage>
+                  </l>
+                  <l>What's ſpent on that can't be accounted waſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>We ſeek our ſelves to learn, and teach,</l>
+                  <l>The Heart deceitful we impeach.</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>Man may Man perſwade amiſs,</l>
+                  <l>But out main deſire is</l>
+                  <l>To teach aright and plainly ſhow,</l>
+                  <l>That which vertue bids us do,</l>
+               </sp>
+               <sp>
+                  <speaker>Scru.</speaker>
+                  <l>Where we fail we Pardon crave,</l>
+                  <l>We yet, but ſmall Experience have,</l>
+               </sp>
+               <sp>
+                  <speaker>Inter.</speaker>
+                  <l>But by your graver Councels guide,</l>
+                  <l>Hope to keep the ſafeſt ſide.</l>
+                  <l>And what we learn, ſo to improve,</l>
+                  <l>To walk in Vertues which you love.</l>
+               </sp>
+               <stage>
+                  <hi>They retire bowing to the Prefence: and then</hi> Card. <hi>ſpeaks.</hi>
+               </stage>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <l>Forth from the depth of black diſpair, I'm brought</l>
+                  <l>To Happineſs, above the reach of thought.</l>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>Your Peace now made, by our great Kings kind Son,</l>
+                  <l>You have a pardon for Rebellion.</l>
+               </sp>
+               <sp>
+                  <speaker>Sunid.</speaker>
+                  <l>But now you muſt no more to Folly turn,</l>
+                  <l>In thoſe hot Flames you've felt, avoid to burn.</l>
+               </sp>
+               <pb n="41" facs="tcp:95033:25"/>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>And then the Bayes, that now bud on your Brow,</l>
+                  <l>Sall to Eternity for ever grow.</l>
+               </sp>
+               <sp>
+                  <speaker>Path.</speaker>
+                  <l>While thus you guarded, and adviſed ſtand,</l>
+                  <l>There needs no other Chains to bind our hands.</l>
+               </sp>
+               <sp>
+                  <speaker>Lupa.</speaker>
+                  <l>Strugle you may, but rule you ſhall no more,</l>
+                  <l>While thus I guard, to endanger as before.</l>
+               </sp>
+               <sp>
+                  <speaker>Ano.</speaker>
+                  <l>We can't command, and now we will obey,</l>
+                  <l>Your Councels guide us in a righter way.</l>
+               </sp>
+               <sp>
+                  <speaker>Ker.</speaker>
+                  <l>But from your King, although your Pardon's come,</l>
+                  <l>Yet muſt you here expect another Doom.</l>
+               </sp>
+               <sp>
+                  <speaker>Card.</speaker>
+                  <p>What muſt I do then?</p>
+               </sp>
+               <sp>
+                  <speaker>Ido.</speaker>
+                  <l>—Step forth, and beg their ſmile,</l>
+                  <l>Acknowledg our Offences all this while.</l>
+               </sp>
+               <sp>
+                  <speaker>Suni.</speaker>
+                  <l>And beg their Pardon too, for ſhould they frown,</l>
+                  <l>'T would be a ſecond looſing of the Town.</l>
+               </sp>
+               <stage>
+                  <hi>They looſe hands, and</hi> Cardian <hi>steps forth, taking off his Crown of Bayes ſpeaks,</hi>
+               </stage>
+            </div>
+         </div>
+         <div type="epilogue">
+            <pb n="42" facs="tcp:95033:26"/>
+            <head>THE EPILOGUE.</head>
+            <sp>
+               <speaker>Car.</speaker>
+               <lg>
+                  <l>Unerown'd again, I now to you appear,</l>
+                  <l>Methinks, your preſence does renew my fear,</l>
+                  <l>But now I'm taught</l>
+                  <l>Not to diſpair but hope,</l>
+                  <l>Your former kindneſs eaſily bought,</l>
+                  <l>That gives my boldneſs ſcope,</l>
+                  <l>I dare petition for our Pardon now,</l>
+                  <l>When we have hop'd 'twas granted long ago.</l>
+               </lg>
+               <lg>
+                  <l>But, when our own unworthyneſs I view,</l>
+                  <l>Methinks my hopes are falſe, my fears are true.</l>
+                  <l>Offences now</l>
+                  <l>We do a new commit,</l>
+                  <l>To raiſe an Anger on your Brow,</l>
+                  <l>To make you thus long ſit,</l>
+                  <l>To hear us ſpeak but poorly broken ſence,</l>
+                  <l>In ill plac'd Words increaſes our Offence.</l>
+               </lg>
+               <pb n="43" facs="tcp:95033:26"/>
+               <lg>
+                  <l>Beſides 'tis an unpardonable Crime,</l>
+                  <l>To mix with Fables, things Divine in rime.</l>
+                  <l>Therefore my Bayes <stage>Throws down his Wreath of Bays.</stage>
+                  </l>
+                  <l>I here throw at your Feet,</l>
+                  <l>'Tis you that muſt condemn, or raiſe,</l>
+                  <l>As you think meet.</l>
+                  <l>But yet methinks you ſmile, your looks are kind,</l>
+                  <l>And gives new hope to our diſpairing mind.</l>
+               </lg>
+               <lg>
+                  <l>My Bayes I venture therefore to aſſume, <stage>Take up Bayes.</stage>
+                  </l>
+                  <l>Begging that Pardon you are wont to give,</l>
+                  <l>'Tis that alone can clear our dusky fume,</l>
+                  <l>My Bayes elſe wither: if you are pleas'd they live.</l>
+               </lg>
+            </sp>
+            <stage>Exit.</stage>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
